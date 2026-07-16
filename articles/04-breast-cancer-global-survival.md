@@ -1,5 +1,17 @@
-GLOBAL BREAST CANCER NEEDS THE PLAYBOOK THAT BEAT AIDS
-By Soneesh Kothagundla
+---
+number: 4
+title: "GLOBAL BREAST CANCER NEEDS THE PLAYBOOK THAT BEAT AIDS"
+author: Soneesh Kothagundla
+topics:
+  - breast cancer
+  - global health
+  - PEPFAR
+  - survival gap
+---
+
+# GLOBAL BREAST CANCER NEEDS THE PLAYBOOK THAT BEAT AIDS
+
+**By Soneesh Kothagundla**
 
 Here's a statistic that should be a global scandal and instead barely registers: a woman diagnosed with breast cancer in North America has roughly an 84% chance of being alive in five years. A woman diagnosed with the identical cancer in parts of the low-income world faces five-year survival as low as 40%. Breast cancer does not become more lethal when it crosses the equator. According to a modelling study in The Lancet Global Health, the difference is whether anyone found the tumor while it was still curable — and whether treatment existed to finish the job once they did.
 

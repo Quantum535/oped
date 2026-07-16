@@ -1,5 +1,17 @@
-THE MAMMOGRAM WARNING IS FEDERAL. THE ANSWER COSTS $1,000.
-By Soneesh Kothagundla
+---
+number: 10
+title: "THE MAMMOGRAM WARNING IS FEDERAL. THE ANSWER COSTS $1,000."
+author: Soneesh Kothagundla
+topics:
+  - breast cancer
+  - dense tissue
+  - MRI
+  - coverage
+---
+
+# THE MAMMOGRAM WARNING IS FEDERAL. THE ANSWER COSTS $1,000.
+
+**By Soneesh Kothagundla**
 
 Here's what quietly changed for American women in September 2024: every mammography report in the country is now federally required to tell a woman whether her breast tissue is dense. Nearly half of women over 40 will get that notice. Here's what didn't change: whether anyone will pay for the additional scan the notice implies she needs.
 

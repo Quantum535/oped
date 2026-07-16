@@ -1,5 +1,17 @@
-THE UNREGULATED FORMULA THAT DECIDES WHO GETS SCREENED FOR LUNG CANCER
-By Soneesh Kothagundla
+---
+number: 1
+title: "THE UNREGULATED FORMULA THAT DECIDES WHO GETS SCREENED FOR LUNG CANCER"
+author: Soneesh Kothagundla
+topics:
+  - lung cancer
+  - USPSTF
+  - pack-years
+  - risk models
+---
+
+# THE UNREGULATED FORMULA THAT DECIDES WHO GETS SCREENED FOR LUNG CANCER
+
+**By Soneesh Kothagundla**
 
 Here's a regulatory absurdity hiding inside American cancer screening: the low-dose CT scanner that looks for lung cancer is a federally regulated medical device — tested, cleared, and monitored for performance. The formula that decides who is allowed near that scanner is regulated by no one. "Pack-years," the eligibility number at the center of every lung cancer screening guideline in the country, was adopted because it was easy to write on an intake form. Whether it actually identifies the people who go on to get sick was, until this year, a question nobody had rigorously answered.
 

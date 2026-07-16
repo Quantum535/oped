@@ -1,5 +1,17 @@
-GLOBAL CANCER AID IS MEASURING THE WRONG NUMBER
-By Soneesh Kothagundla
+---
+number: 6
+title: "GLOBAL CANCER AID IS MEASURING THE WRONG NUMBER"
+author: Soneesh Kothagundla
+topics:
+  - global health
+  - early detection
+  - treatment access
+  - metrics
+---
+
+# GLOBAL CANCER AID IS MEASURING THE WRONG NUMBER
+
+**By Soneesh Kothagundla**
 
 Here's a finding that should be reordering global health priorities and mostly isn't: nearly half of all cancer deaths worldwide in 2022 didn't have to happen. That is the central estimate of a study published in The Lancet Global Health in February 2026, led by researchers at the International Agency for Research on Cancer: of roughly 9.3 million cancer deaths that year, 4.5 million — 48% — were avoidable with tools that already exist. About 3.1 million traced to five preventable risk factors, led by tobacco. A further 1.4 million were treatable: deaths that earlier detection or existing treatment, already standard somewhere in the world, could have prevented. Those treatable deaths — breast and cervical cancer above all — cluster overwhelmingly in countries with low and medium Human Development Index scores.
 

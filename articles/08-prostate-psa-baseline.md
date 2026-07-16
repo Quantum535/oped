@@ -1,5 +1,17 @@
-THE ANSWER TO THE PSA MESS IS ONE BLOOD TEST AT 45
-By Soneesh Kothagundla
+---
+number: 8
+title: "THE ANSWER TO THE PSA MESS IS ONE BLOOD TEST AT 45"
+author: Soneesh Kothagundla
+topics:
+  - prostate cancer
+  - PSA
+  - USPSTF
+  - active surveillance
+---
+
+# THE ANSWER TO THE PSA MESS IS ONE BLOOD TEST AT 45
+
+**By Soneesh Kothagundla**
 
 Here's a natural experiment no ethics board would have approved: in 2012, the U.S. Preventive Services Task Force recommended against routine PSA screening for prostate cancer — for all men. Testing fell nationwide. A decade later the results are in the registries: a 2022 JAMA Network Open analysis found metastatic prostate cancer — five-year survival around one in three, versus nearly 100 percent when caught localized — rose more than 40 percent among men 45 to 74 between 2010 and 2018. The American Cancer Society's statistics show the same curve from another angle: incidence climbing again since 2014, driven entirely by advanced-stage disease, with the share of men diagnosed after the cancer has spread roughly doubling from its low.
 

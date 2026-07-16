@@ -1,5 +1,17 @@
-WE PAY FOR CANCER TESTS. WE SHOULD PAY FOR ANSWERS.
-By Soneesh Kothagundla
+---
+number: 9
+title: "WE PAY FOR CANCER TESTS. WE SHOULD PAY FOR ANSWERS."
+author: Soneesh Kothagundla
+topics:
+  - colorectal cancer
+  - follow-up
+  - navigation
+  - bundled payment
+---
+
+# WE PAY FOR CANCER TESTS. WE SHOULD PAY FOR ANSWERS.
+
+**By Soneesh Kothagundla**
 
 Here's the number that exposes the difference between running screening tests and running a screening program: in many American health systems, barely half of patients who test positive on a stool-based colorectal cancer test receive the follow-up colonoscopy within a year. A positive stool test is not a diagnosis; it is an alarm that says there may be a cancer here, look now. In roughly half of cases, the alarm rings into an empty room.
 

@@ -1,5 +1,17 @@
-THE ONLY CANCER SCREENING THAT REQUIRES A CONFESSION
-By Soneesh Kothagundla
+---
+number: 3
+title: "THE ONLY CANCER SCREENING THAT REQUIRES A CONFESSION"
+author: Soneesh Kothagundla
+topics:
+  - lung cancer
+  - stigma
+  - Medicare
+  - uptake
+---
+
+# THE ONLY CANCER SCREENING THAT REQUIRES A CONFESSION
+
+**By Soneesh Kothagundla**
 
 Here's an uncomfortable pattern in American cancer screening: the test that works gets skipped, and the tests people already believe in get used four times as often. Lung cancer screening reduces mortality by roughly the same margin as mammography and colonoscopy. The difference isn't effectiveness. It's that lung screening is the only major cancer test in America gated behind a confession.
 

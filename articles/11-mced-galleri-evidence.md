@@ -1,5 +1,17 @@
-DON'T LET THE 50-CANCER BLOOD TEST SKIP THE EXAM
-By Soneesh Kothagundla
+---
+number: 11
+title: "DON'T LET THE 50-CANCER BLOOD TEST SKIP THE EXAM"
+author: Soneesh Kothagundla
+topics:
+  - multi-cancer early detection
+  - Galleri
+  - FDA
+  - evidence
+---
+
+# DON'T LET THE 50-CANCER BLOOD TEST SKIP THE EXAM
+
+**By Soneesh Kothagundla**
 
 Here's the most seductive proposition in modern medicine: a single $949 blood draw that screens for more than 50 types of cancer at once — including pancreatic and ovarian, the killers with no screening test at all. It's called Galleri, it has been on sale in the United States since 2021, and it comes with two details the marketing does not lead with: it is not FDA-approved, and no study anywhere has shown that people who take it live longer than people who don't.
 

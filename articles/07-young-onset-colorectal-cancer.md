@@ -1,5 +1,16 @@
-YOUNG ADULTS ARE DYING OF COLON CANCER WHILE WE HUNT FOR THE WHY
-By Soneesh Kothagundla
+---
+number: 7
+title: "YOUNG ADULTS ARE DYING OF COLON CANCER WHILE WE HUNT FOR THE WHY"
+author: Soneesh Kothagundla
+topics:
+  - colorectal cancer
+  - early-onset
+  - screening age
+---
+
+# YOUNG ADULTS ARE DYING OF COLON CANCER WHILE WE HUNT FOR THE WHY
+
+**By Soneesh Kothagundla**
 
 Here's a ranking that should unsettle anyone under 50: colorectal cancer is now the leading cause of cancer death among American men younger than 50, and the second-leading cause among women that age, behind only breast cancer. In the late 1990s it ranked fourth for both. The American Cancer Society's annual statistics have tracked the climb for years — one to two percent annually, three decades running — and the generational math from the Journal of the National Cancer Institute is stark: Americans born around 1990 carry twice the colon cancer risk and four times the rectal cancer risk that Americans born around 1950 carried at the same age.
 

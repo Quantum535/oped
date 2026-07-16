@@ -1,5 +1,16 @@
-WHY RACE-BLIND SCREENING RULES MISS BLACK PATIENTS' CANCERS
-By Soneesh Kothagundla
+---
+number: 2
+title: "WHY RACE-BLIND SCREENING RULES MISS BLACK PATIENTS' CANCERS"
+author: Soneesh Kothagundla
+topics:
+  - lung cancer
+  - health equity
+  - race-aware calibration
+---
+
+# WHY RACE-BLIND SCREENING RULES MISS BLACK PATIENTS' CANCERS
+
+**By Soneesh Kothagundla**
 
 Here's a number that should stop you cold: under the screening criteria most American hospitals use today, the odds that a Black patient's future lung cancer would have been flagged in advance were, in a large national cohort, as low as 46%. For white patients in the same cohort, several of the same criteria caught 72 to 80%. That gap was published this year in JNCI: Journal of the National Cancer Institute, and it came not from a database of who happened to get screened, but from testing the eligibility formulas themselves against fifteen years of who actually got sick.
 

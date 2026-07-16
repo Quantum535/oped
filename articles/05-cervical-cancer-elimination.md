@@ -1,5 +1,17 @@
-THE EXCUSES FOR NOT ELIMINATING CERVICAL CANCER HAVE EXPIRED
-By Soneesh Kothagundla
+---
+number: 5
+title: "THE EXCUSES FOR NOT ELIMINATING CERVICAL CANCER HAVE EXPIRED"
+author: Soneesh Kothagundla
+topics:
+  - cervical cancer
+  - HPV
+  - global health
+  - elimination
+---
+
+# THE EXCUSES FOR NOT ELIMINATING CERVICAL CANCER HAVE EXPIRED
+
+**By Soneesh Kothagundla**
 
 Here's what makes cervical cancer different from almost every other cancer on earth: we know exactly what causes it, we have a vaccine that prevents it, and we have a test that catches it years before it turns dangerous. By oncology's standards it is close to a solved problem. Yet when a pair of modelling studies in The Lancet asked in 2020 how long elimination would actually take across 78 low- and lower-middle-income countries, the answer was brutal: under high vaccination coverage alone, somewhere between 2059 and 2102. Adding twice-in-a-lifetime HPV screening pulled elimination forward by 11 to 31 years — and a separate Lancet Global Health review of 202 countries showed the places furthest behind are precisely the ones without a funded screening program actually operating, whatever their paper policies say.
 
