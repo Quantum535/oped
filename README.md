@@ -56,4 +56,6 @@ oped/
     └── ...
 ```
 
-Each article includes YAML front matter (title, author, topics) and is formatted for readable rendering on GitHub.
+Each article includes YAML front matter (title, author, topics) and is
+formatted for comfortable reading: 72-character line wraps, section
+breaks, and numbered action lists where appropriate.
