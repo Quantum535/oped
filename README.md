@@ -1,6 +1,6 @@
 # Cancer Screening Op-Eds
 
-A collection of policy op-eds on cancer screening — who gets tested, who gets missed, and what to fix.
+A collection of policy op-eds on cancer screening: who gets tested, who gets missed, and what to fix.
 
 **Author:** Soneesh Kothagundla
 
@@ -27,21 +27,21 @@ A collection of policy op-eds on cancer screening — who gets tested, who gets 
 ## By Theme
 
 ### Lung Cancer Screening
-- [01 — Pack-year eligibility and risk models](articles/01-pack-year-lung-screening.md)
-- [02 — Racial disparities in screening sensitivity](articles/02-racial-math-lung-screening.md)
-- [03 — Stigma, confession, and low uptake](articles/03-lung-screening-stigma.md)
+- [01 - Pack-year eligibility and risk models](articles/01-pack-year-lung-screening.md)
+- [02 - Racial disparities in screening sensitivity](articles/02-racial-math-lung-screening.md)
+- [03 - Stigma, confession, and low uptake](articles/03-lung-screening-stigma.md)
 
 ### Global Health & Equity
-- [04 — Breast cancer survival and the AIDS playbook](articles/04-breast-cancer-global-survival.md)
-- [05 — Cervical cancer elimination is now affordable](articles/05-cervical-cancer-elimination.md)
-- [06 — Measuring detection without treatment](articles/06-global-cancer-aid-metrics.md)
+- [04 - Breast cancer survival and the AIDS playbook](articles/04-breast-cancer-global-survival.md)
+- [05 - Cervical cancer elimination is now affordable](articles/05-cervical-cancer-elimination.md)
+- [06 - Measuring detection without treatment](articles/06-global-cancer-aid-metrics.md)
 
 ### U.S. Screening Policy
-- [07 — Young-onset colorectal cancer](articles/07-young-onset-colorectal-cancer.md)
-- [08 — PSA screening and baseline risk stratification](articles/08-prostate-psa-baseline.md)
-- [09 — Closing the loop after a positive test](articles/09-positive-test-follow-up.md)
-- [10 — Breast density notification without coverage](articles/10-breast-density-follow-up.md)
-- [11 — Multi-cancer blood tests and evidence sequencing](articles/11-mced-galleri-evidence.md)
+- [07 - Young-onset colorectal cancer](articles/07-young-onset-colorectal-cancer.md)
+- [08 - PSA screening and baseline risk stratification](articles/08-prostate-psa-baseline.md)
+- [09 - Closing the loop after a positive test](articles/09-positive-test-follow-up.md)
+- [10 - Breast density notification without coverage](articles/10-breast-density-follow-up.md)
+- [11 - Multi-cancer blood tests and evidence sequencing](articles/11-mced-galleri-evidence.md)
 
 ---
 

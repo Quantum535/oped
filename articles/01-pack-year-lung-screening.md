@@ -3,10 +3,10 @@ number: 1
 title: "THE UNREGULATED FORMULA THAT DECIDES WHO GETS SCREENED FOR LUNG CANCER"
 author: Soneesh Kothagundla
 topics:
-  - lung cancer
-  - USPSTF
-  - pack-years
-  - risk models
+ - lung cancer
+ - USPSTF
+ - pack-years
+ - risk models
 ---
 
 # THE UNREGULATED FORMULA THAT DECIDES WHO GETS SCREENED FOR LUNG CANCER
@@ -17,7 +17,7 @@ topics:
 
 Here's a regulatory absurdity hiding inside American cancer screening:
 the low-dose CT scanner that looks for lung cancer is a federally
-regulated medical device — tested, cleared, and monitored for
+regulated medical device, tested, cleared, and monitored for
 performance. The formula that decides who is allowed near that scanner
 is regulated by no one. "Pack-years," the eligibility number at the
 center of every lung cancer screening guideline in the country, was
@@ -43,7 +43,7 @@ difference between catching one in two future patients and catching
 nearly three in four.
 
 The most damning detail involves the newest rule, not the oldest. The
-American Cancer Society's 2023 update — introduced as an improvement —
+American Cancer Society's 2023 update, introduced as an improvement, 
 produced the single largest sensitivity gap of any strategy tested, 18
 percentage points. A revision adopted as progress made the measurement
 problem worse, and nobody would have known if an outside team hadn't
@@ -66,8 +66,8 @@ the honor system.
 Closing that void requires three steps, none of which involves a
 scientific discovery. First, the USPSTF should replace fixed cutoffs
 with the validated risk-prediction models that outperformed them in the
-JNCI analysis — they are published, tested against fifteen years of real
-outcomes, and waiting — and Medicare's coverage rules should follow, so
+JNCI analysis, they are published, tested against fifteen years of real
+outcomes, and waiting. Medicare's coverage rules should follow, so
 that model-eligible patients are reimbursable. Second, screening
 criteria should go on an audit clock: no eligibility rule adopted
 without published expected performance, including sensitivity by
@@ -75,7 +75,7 @@ subgroup, and mandatory re-testing against real-world outcomes on a
 fixed schedule. That is nothing more than the post-market surveillance
 we already demand of the scanner, applied to the formula that feeds it.
 Third, health systems shouldn't wait for Washington. The inputs to a
-risk model — age, smoking history, family history — already sit in the
+risk model, age, smoking history, family history, already sit in the
 electronic health record; computing a score is a software update, and
 nothing prevents a system from flagging the high-risk patients its own
 data can identify today.
@@ -84,6 +84,16 @@ data can identify today.
 
 Screening guidelines are supposed to follow the data on who actually
 gets sick. The JNCI study is what it looks like when someone finally
-checks whether they do — and the fix it points to is not exotic. Hold
+checks whether they do. The fix it points to is not exotic. Hold
 the formula to the same standard as the machine, and the patients the
 current rule quietly filters out become patients it finds.
+
+---
+
+## Take Action
+
+If you have a smoking history, ask your clinician whether you qualify
+for lung cancer screening under a validated risk model, not just the
+pack-year cutoff. Hospital leaders and Medicare policymakers should
+require the same post-market accountability for eligibility formulas
+that we already demand of the scanners themselves.

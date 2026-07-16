@@ -3,10 +3,10 @@ number: 11
 title: "DON'T LET THE 50-CANCER BLOOD TEST SKIP THE EXAM"
 author: Soneesh Kothagundla
 topics:
-  - multi-cancer early detection
-  - Galleri
-  - FDA
-  - evidence
+ - multi-cancer early detection
+ - Galleri
+ - FDA
+ - evidence
 ---
 
 # DON'T LET THE 50-CANCER BLOOD TEST SKIP THE EXAM
@@ -16,7 +16,7 @@ topics:
 ---
 
 Here's the most seductive proposition in modern medicine: a single $949
-blood draw that screens for more than 50 types of cancer at once —
+blood draw that screens for more than 50 types of cancer at once, 
 including pancreatic and ovarian, the killers with no screening test at
 all. It's called Galleri, it has been on sale in the United States since
 2021, and it comes with two details the marketing does not lead with: it
@@ -30,30 +30,30 @@ turned out to have cancer. Read in reverse: roughly six in ten positives
 were false alarms, each launching a cascade of imaging, referrals,
 sometimes invasive procedures, and months of dread. The test found real
 cancers, including some nothing else would have caught. What the study
-could not show — was not designed to show — is whether finding them
+could not show (and was not designed to show) is whether finding them
 changed a single outcome.
 
 That distinction is the graveyard of screening history. A test can find
 cancers earlier and save no one: starting the survival clock earlier is
 not the same as moving the date of death, and some detected cancers
 would never have harmed anyone. The cautionary tale is ovarian cancer's
-UKCTOCS trial — more than 200,000 women, nearly two decades of follow-
+UKCTOCS trial, more than 200,000 women, nearly two decades of follow-
 up, diagnoses meaningfully shifted earlier, and no significant reduction
 in deaths. Earlier detection is the mechanism; mortality is the test.
 Ovarian screening passed the first, failed the second, and is
 recommended nowhere today.
 
 But the argument that matters in 2026 is not about the science, which
-will resolve itself. It is about sequencing — because the United States
+will resolve itself. It is about sequencing, because the United States
 and Britain are currently running opposite plays on the same test, and
 only one of them can be right. The NHS enrolled 140,000 people in a
 randomized trial, reviewed the interim results in 2024, and declined to
-expand rollout until the final data arrives — enormous enthusiasm for
+expand rollout until the final data arrives: enormous enthusiasm for
 the question, refusal to skip to the answer. The United States put the
 test on the market ahead of FDA review, and Congress has entertained the
 heavily lobbied Multi-Cancer Early Detection Screening Coverage Act,
-which would pre-build a Medicare coverage pathway — implying billions in
-annual spending — before the evidence exists. Coverage first, evidence
+which would pre-build a Medicare coverage pathway, implying billions in
+annual spending, before the evidence exists. Coverage first, evidence
 to follow. Screening history is blunt about that ordering: once the
 money arrives, the answer stops mattering, because no test with a
 Medicare benefit category has ever been un-adopted gracefully.
@@ -64,7 +64,7 @@ Medicare benefit category has ever been un-adopted gracefully.
 
 Getting the sequence right requires four commitments. Congress should
 hold the line: no Medicare benefit category until a test has FDA
-approval and evidence on hard outcomes — with coverage-with-evidence-
+approval and evidence on hard outcomes, with coverage-with-evidence-
 development as the compromise, paying for the test only inside
 registries and trials that generate the missing answer. Fund the
 referee: the National Cancer Institute launched its Vanguard study in
@@ -72,22 +72,32 @@ referee: the National Cancer Institute launched its Vanguard study in
 at population scale; that infrastructure, not lobbying, is where the
 adoption question should be settled. Regulate the message: every MCED
 result and advertisement should be required to state that the test does
-not replace colonoscopy, mammography, or any proven screening — because
+not replace colonoscopy, mammography, or any proven screening, because
 a patient holding a clean 50-cancer blood test will predictably treat
 the tests that catch one cancer as redundant, and a test not yet shown
 to save lives can still cost them by displacing ones that do. And make
 the standard symmetric: if the NHS-Galleri results, expected this year,
-show real benefit, adopt fast — the same evidentiary clock, run in both
+show real benefit, adopt fast: the same evidentiary clock, run in both
 directions.
 
 ---
 
 That symmetry is the point. The strongest argument in cancer policy
-today is that proven screening — lung, colorectal, cervical — sits
+today is that proven screening, lung, colorectal, cervical, sits
 scandalously underused, and that case collapses into cheerleading unless
 the same standard governs the new test too. The question was never
 whether the technology can find cancer; it can. The question is whether
 the people who take it live longer than the people who don't. A
 140,000-person trial is about to answer it. The only thing lost by
-waiting is a head start on a hypothesis — and hypotheses with price tags
+waiting is a head start on a hypothesis. Hypotheses with price tags
 attached are exactly the ones that need answers first.
+
+---
+
+## Take Action
+
+Do not skip colonoscopy, mammography, or any proven screening for a
+multi-cancer blood test that has not yet shown it saves lives. Tell
+Congress to withhold a Medicare benefit category until FDA approval and
+mortality evidence are in. If the NHS trial shows benefit, adopt fast.
+Until then, demand answers before billions in coverage.
