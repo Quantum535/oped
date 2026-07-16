@@ -15,7 +15,7 @@ topics:
 
 ---
 
-You pay nearly a thousand dollars for a blood test that screens for more than 50 cancers. The result comes back clean. You skip your colonoscopy and your mammogram because you believe you are covered. The test was never proven to save lives.
+Congress is considering Medicare coverage for multi-cancer blood tests before the evidence shows they save lives, while the NHS enrolled 140,000 people in a randomized trial and declined to expand rollout until the data arrive. American health policy is preparing to pay first and ask later.
 
 The solution is straightforward. Multi-cancer early detection tests can find cancer signals in the blood. Yet no study anywhere has shown that people who take them live longer than people who do not. The result is predictable: Patients may abandon proven screening for a test that is seductive, expensive, and still unproven on the outcome that matters.
 
@@ -51,6 +51,12 @@ The central question for policymakers is whether we can afford to buy a hypothes
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-Do not skip colonoscopy, mammography, or any proven screening for a multi-cancer blood test that has not yet shown it saves lives. Tell Congress to withhold a Medicare benefit category until FDA approval and mortality evidence are in. If the NHS trial shows benefit, adopt fast. Until then, demand answers before billions in coverage.
+We urge Congress to reject a Medicare benefit category for multi-cancer early detection tests until FDA approval and mortality evidence are established.
+
+We urge the Food and Drug Administration to require every MCED advertisement and result letter to state that the test does not replace colonoscopy, mammography, or any proven screening.
+
+We urge the National Cancer Institute to fund the Vanguard study as the primary venue for population-scale evaluation, not lobbying-driven coverage.
+
+We urge CMS to adopt a symmetric evidentiary standard: if the NHS-Galleri trial shows benefit, expand coverage quickly; until then, restrict payment to registry and trial settings only.

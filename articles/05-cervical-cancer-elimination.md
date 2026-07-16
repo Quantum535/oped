@@ -15,7 +15,7 @@ topics:
 
 ---
 
-You live in a country where cervical cancer is still among the leading causes of cancer death. You learn that a vaccine prevents the infection that causes it, a self-collected test catches it early, and a nurse can treat precancerous cells the same day. None of it reaches your district because the program is still labeled a pilot.
+Health ministries and donors still fund cervical cancer elimination as a series of pilot projects even though the World Health Organization has endorsed one-dose HPV vaccination, self-sampling, and same-day treatment. The tools to eliminate the disease exist. The financing structure does not.
 
 The solution is straightforward. Cervical cancer is close to a solved problem by oncology standards. Yet modelling studies in The Lancet projected elimination across 78 low- and lower-middle-income countries would not arrive until between 2059 and 2102 under vaccination alone. The result is predictable: The next century's cases will be evidence we declined tools that already exist.
 
@@ -53,6 +53,12 @@ The central question for policymakers is whether we can afford to keep treating 
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-Health ministries that have not switched to single-dose HPV vaccination should do it now. Donors at Gavi and the Global Fund should fund cervical cancer elimination as a multi-decade line item, not another pilot. Elimination is a budget decision, and the price has already dropped.
+We urge every health ministry that has not yet switched to single-dose HPV vaccination to do so immediately.
+
+We urge national screening programs to adopt self-sampling and same-day treat protocols as the default model, not the pilot exception.
+
+We urge Gavi and the Global Fund to fund cervical cancer elimination as a permanent, multi-decade budget line rather than a renewable experiment.
+
+We urge WHO member states to report elimination progress against vaccination coverage and screened-and-treated rates, not pilot counts alone.

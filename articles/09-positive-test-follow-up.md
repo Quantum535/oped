@@ -15,7 +15,7 @@ topics:
 
 ---
 
-You mail back your stool test and wait for results. The screen comes back positive. Weeks pass. Nobody schedules your colonoscopy. By the time you are scoped, the cancer has advanced.
+The Centers for Medicare and Medicaid Services and private insurers pay for colorectal cancer screening tests but not for the colonoscopy that gives a positive result its meaning. In many health systems, barely half of patients with a positive stool test receive follow-up within a year.
 
 The solution is straightforward. A positive stool test is an alarm, not a diagnosis. Yet most American health systems pay for the test and not for the answer. The result is predictable: In many health systems, barely half of patients who test positive on a stool-based colorectal cancer test receive the follow-up colonoscopy within a year.
 
@@ -51,6 +51,12 @@ The central question for policymakers is whether we can afford to keep paying fo
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-If your stool test is positive, book the colonoscopy now and ask whether follow-up is covered without cost-sharing. Hospital executives and CMS should report follow-up completion within 90 days, bundle payment around the full screening episode, and fund navigators who close the loop.
+We urge the Centers for Medicare and Medicaid Services to create a national quality metric for follow-up colonoscopy within 90 days of a positive stool test, publicly reported and tied to Medicare star ratings.
+
+We urge Medicare and Medicaid to bundle payment for a positive stool test and its colonoscopy as one screening episode, with full payment contingent on loop closure.
+
+We urge CMS to require patient navigation reimbursement for positive screening results in every screening program it funds.
+
+We urge the Department of Health and Human Services to mandate auto-scheduling of colonoscopy at the time of a positive result and to publicize existing federal rules eliminating cost-sharing on follow-up colonoscopy.

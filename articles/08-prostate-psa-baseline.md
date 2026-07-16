@@ -15,7 +15,7 @@ topics:
 
 ---
 
-You are a man in your fifties. You learn your prostate cancer has already spread. You were never offered a PSA test because a decade-old guideline told your doctor not to screen routinely.
+The U.S. Preventive Services Task Force restricted PSA screening in 2012 using harm models from an era before active surveillance and MRI-first pathways. Metastatic prostate cancer then rose more than 40 percent among men 45 to 74, and guideline policy has not caught up to modern treatment.
 
 The solution is straightforward. A single baseline PSA in a man's mid-forties predicts his lifetime risk of lethal prostate cancer decades in advance. Yet the U.S. Preventive Services Task Force still frames the question as whether to screen at all, not how to screen smart. The result is predictable: Metastatic prostate cancer rose more than 40 percent among men 45 to 74 between 2010 and 2018 after testing fell nationwide.
 
@@ -51,6 +51,12 @@ The central question for policymakers is whether we can afford another decade of
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-Men at average risk should discuss a baseline PSA at 45. Black men and men with family history should start at 40. The USPSTF should re-review screening using modern harm data and adopt risk-stratified follow-up, not a blanket yes or no.
+We urge the U.S. Preventive Services Task Force to re-review PSA screening using harm models based on active surveillance and MRI-first pathways, not 2009 treatment patterns.
+
+We urge the task force to adopt baseline risk-stratified screening: one PSA at 45 for average-risk men, at 40 for Black men and men with family history, with intervals set by the baseline result.
+
+We urge guideline bodies to establish an automatic re-review trigger when metastatic incidence rises for a decade after a restriction.
+
+We urge Medicare to cover baseline PSA and risk-stratified follow-up as a defined preventive benefit, not an unfunded discussion in a fifteen-minute visit.

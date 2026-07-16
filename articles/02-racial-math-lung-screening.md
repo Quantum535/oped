@@ -14,7 +14,7 @@ topics:
 
 ---
 
-You are a Black patient with a twenty-year smoking history. You meet every lung screening criterion on paper, but the formula your hospital uses was never tested on patients who look like you. By the time your cancer is found, it has already spread.
+Guideline bodies across American medicine apply lung screening rules that flag Black patients' future cancers at rates as low as 46 percent while catching 72 to 80 percent of white patients in the same cohort. This is not a failure of patient behavior. It is a failure of policy that has not required subgroup accountability.
 
 The solution is straightforward. Race-calibrated screening thresholds close the gap between Black and white patients without lowering the standard of care. Yet most hospitals still apply uniform rules because guideline bodies have not required subgroup performance reporting. The result is predictable: Black patients continue to be less likely to be flagged for the one test that turns fatal-stage lung cancer into survivable disease.
 
@@ -50,6 +50,12 @@ The central question for policymakers is whether we can afford to keep applying 
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-If you lead a health system, audit this quarter how many eligible Black and white patients your lung screening criteria actually flag. Guideline bodies should adopt race-calibrated thresholds now and publish subgroup performance for every screening algorithm before it reaches patients.
+We urge the U.S. Preventive Services Task Force and the American Cancer Society to adopt race-calibrated lung screening thresholds now, because they are the only tested approach that closes the documented gap.
+
+We urge every guideline body to prohibit adoption of screening algorithms without published performance broken out by race, sex, and other subgroups.
+
+We urge the National Institutes of Health and the National Cancer Institute to fund diverse cohort studies large enough to replace race in formulas with the real predictors it currently stands in for.
+
+We urge every health system receiving federal dollars to audit quarterly whom its lung screening criteria flag, by race, and publish the results.

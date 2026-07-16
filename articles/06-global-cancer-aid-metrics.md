@@ -15,7 +15,7 @@ topics:
 
 ---
 
-You are a woman in a rural clinic. A community health worker screens you for cervical cancer, and the test comes back positive. The nearest oncologist is six hundred kilometers away. The referral expires before anyone starts treatment.
+Global cancer donors report screenings delivered while treatable deaths remain unchanged. A woman in a rural clinic can test positive and still never reach treatment because the program that found her cancer was never required to fund the bridge to care.
 
 The solution is straightforward. Global cancer programs should measure the time from a positive test to the first day of treatment. Yet most donors still report screenings delivered, coverage achieved, and devices deployed. The result is predictable: Programs that find untreatable cancers score perfectly while the treatable-death count stands still.
 
@@ -51,6 +51,12 @@ The central question for policymakers is whether we can afford to keep funding b
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-Every global cancer program should publish one number: days from positive screen to first treatment. Funders should withhold scale-up money until a financed treatment endpoint exists in the referral network. Measure the bridge, not the billboard.
+We urge every global cancer donor to replace screenings-delivered metrics with days from positive test to treatment initiation.
+
+We urge the World Bank, bilateral agencies, and philanthropic funders to withhold screening scale-up until a financed treatment endpoint is verified in the referral network.
+
+We urge WHO and national health ministries to finance oncology workforce development on decade horizons, not election-cycle grants.
+
+We urge pooled procurement bodies to negotiate off-patent essential cancer medicines the way global health already pools vaccines and antiretrovirals.

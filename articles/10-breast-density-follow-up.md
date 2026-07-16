@@ -15,7 +15,7 @@ topics:
 
 ---
 
-You receive your mammogram results. The report says your breasts are dense and the scan may have missed something. You call your insurer to ask about supplemental imaging. You learn it will cost more than a thousand dollars out of pocket.
+Federal policy now requires every mammography report to disclose breast density, but Congress and insurers have not required coverage for the supplemental imaging that disclosure implies. The warning is universal. The answer remains means-tested.
 
 The solution is straightforward. Every mammography report in the country now tells women whether their breast tissue is dense. Yet most insurers still do not cover the supplemental imaging that dense tissue requires. The result is predictable: The notification is federally guaranteed, and the answer is means-tested.
 
@@ -53,6 +53,12 @@ The central question for policymakers is whether we can afford to keep warning w
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-If your mammogram report says you have dense breasts, ask what supplemental imaging you need and what it will cost. Tell your representatives to pass the Find It Early Act so the federally mandated warning comes with a covered next step, not a thousand-dollar invoice.
+We urge Congress to pass the Find It Early Act and require insurers to cover supplemental and diagnostic breast imaging without cost-sharing.
+
+We urge the Centers for Medicare and Medicaid Services to add no-cost supplemental imaging for extremely dense breasts to the Medicare preventive benefit, beginning with the DENSE trial population.
+
+We urge state legislatures to adopt the model laws already operating in states that mandate no-cost dense-breast follow-up.
+
+We urge the Food and Drug Administration and CMS to require that density notification letters include information on covered next steps, not only risk disclosure.

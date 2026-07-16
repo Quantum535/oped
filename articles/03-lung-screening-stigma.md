@@ -15,7 +15,7 @@ topics:
 
 ---
 
-You schedule your mammogram because you turned fifty. You pick up your mailed colonoscopy kit because your doctor ordered it at your last visit. You have smoked for thirty years, but nobody mentions lung cancer screening because the conversation feels too awkward to start.
+Medicare and private insurers have built lung cancer screening behind a reimbursement checkpoint that no other covered cancer test carries. The same patients who accept mammography and colonoscopy at rates of 65 percent accept lung screening at 17 to 18 percent, not because the test fails, but because policy gates it behind confession.
 
 The solution is straightforward. Lung cancer screening works as well as mammography and colonoscopy at reducing mortality. Yet most eligible patients never receive it because eligibility begins with a stigmatized disclosure rather than a birthday or a default order. The result is predictable: Two out of three lung cancers are still caught at a stage where five-year survival is measured in single digits, for a disease with a proven, reimbursed early-detection test.
 
@@ -43,12 +43,18 @@ A third counterargument points to awareness campaigns as the answer. However, on
 
 The path forward
 
-Smoking history should be captured once, as structured data, and maintained like blood pressure. When the record says a patient qualifies, the system should generate the referral the way it flags an overdue mammogram. Medicare should remove the pre-screening visit mandate and let the scan be ordered like any other covered screening test. Every piece of patient-facing material should carry the same sentence: If you smoked, you already qualify. There is nothing to justify.
+Smoking history should be captured once, as structured data, and maintained like blood pressure. When the record says a patient qualifies, the system should generate the referral the way it flags an overdue mammogram. Medicare should remove the pre-screening visit mandate and let the scan be ordered like any other covered screening test. Every piece of patient-facing material should carry the same sentence: patients with a smoking history already qualify. There is nothing to justify.
 
 The central question for policymakers is whether we can afford to keep treating lung screening as a moral referendum on a patient's past. The case is clear and compelling: The science, the uptake data, and the equity considerations all support action. Every insurer and Medicare administrator should recognize default lung screening outreach as a critical investment in finding cancer before stigma blocks the door.
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-If you smoked, you may already qualify for a lung scan. Ask for the referral directly. Clinicians and Medicare administrators should remove the confession checkpoint: capture smoking history once in the record, mail the invitation, and treat lung screening like every other cancer test we actually deliver.
+We urge the Centers for Medicare and Medicaid Services to remove the shared-decision-making visit as a prerequisite for lung cancer screening payment and treat the scan like any other covered cancer test.
+
+We urge Medicare and Medicaid to require smoking history as structured electronic health record data and to reimburse opt-out mailed screening invitations.
+
+We urge the U.S. Preventive Services Task Force and state Medicaid programs to align outreach policy with mammography and colorectal screening defaults, not stigma-based disclosure.
+
+We urge the Department of Health and Human Services to require patient-facing materials stating that patients with a smoking history already qualify and need not justify past behavior to access screening.

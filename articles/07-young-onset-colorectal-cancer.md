@@ -14,7 +14,7 @@ topics:
 
 ---
 
-You are thirty-four years old. You notice rectal bleeding and a change in bowel habits. Your doctor tells you it is probably hemorrhoids. Months pass. By the time anyone orders a colonoscopy, the cancer has already reached stage IV.
+Federal screening policy lowered the colorectal cancer start age to 45 in 2021, but delivery policy never followed. Young adults with red-flag symptoms still wait months for a diagnosis because payers and health systems have no mandatory clock for symptomatic workup.
 
 The solution is straightforward. Colorectal cancer in young adults is rising, and three process failures are killing patients while researchers hunt for the cause. Yet the national conversation has settled on a single fascinated question: why? The result is predictable: Americans born around 1990 carry twice the colon cancer risk and four times the rectal cancer risk that Americans born around 1950 carried at the same age, and most of those deaths are still preventable today.
 
@@ -48,6 +48,12 @@ The central question for policymakers is whether we can afford to keep researchi
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-If you are 45 or older, get screened on schedule. If you have rectal bleeding, anemia, or persistent bowel changes at any age, insist on a timely workup. Payers and health systems should adopt a red-flag clock with public reporting, and wire family history in the chart to earlier screening automatically.
+We urge the Centers for Medicare and Medicaid Services and commercial payers to require mailed stool-based screening at age 45 with uptake in the 45-to-49 bracket reported separately from older adults.
+
+We urge state Medicaid programs and Medicare Advantage plans to adopt a red-flag guarantee: defined symptoms at any age, a scheduled colonoscopy within a fixed number of weeks, publicly reported.
+
+We urge the Office of the National Coordinator for Health Information Technology to require family history as structured data that automatically triggers earlier screening when guidelines already say it should.
+
+We urge the U.S. Preventive Services Task Force to treat symptomatic young adults as a distinct policy problem, not a footnote to age-based screening.

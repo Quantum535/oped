@@ -15,7 +15,7 @@ topics:
 
 ---
 
-You are a woman in a low-income country. You find a lump in your breast. The nearest hospital can confirm the diagnosis, but chemotherapy is unavailable, the referral pathway is broken, and your five-year survival odds are less than half what they would be if you had been born elsewhere.
+Global health funders finance breast cancer detection without requiring treatment at the end of the referral line. A woman in a low-income country can receive a diagnosis she cannot complete, and her five-year survival odds remain less than half what they would be elsewhere.
 
 The solution is straightforward. Breast cancer in low- and middle-income countries is not more lethal because the biology changes at the equator. It is more lethal because detection and treatment are not built together. Yet global funders still finance screening pilots without guaranteeing treatment at the end of the referral line. The result is predictable: Roughly 200,000 women a year die of a disease the evidence already knows how to catch and cure.
 
@@ -51,6 +51,12 @@ The central question for policymakers is whether we can afford to keep treating 
 
 ---
 
-## Take Action
+## A Plea to Policymakers
 
-Funders and health ministers should tie every breast cancer dollar to outcomes: early-stage diagnosis, workup within 60 days, and treatment completion. No new screening rollout without a funded treatment path already in place. The PEPFAR playbook exists. Apply it.
+We urge PEPFAR, the Global Fund, and bilateral health agencies to finance breast cancer care on ten-to-fifteen-year horizons, not three-year grant cycles.
+
+We urge the World Health Organization's Global Breast Cancer Initiative targets to become binding funding conditions: 60 percent early-stage diagnosis, workup within 60 days, and 80 percent treatment completion.
+
+We urge Gavi and pooled procurement bodies to extend the vaccine procurement model to off-patent cancer medicines so treatment is not priced as a luxury import.
+
+We urge every donor to adopt a treatment-anchored rule: no detection rollout without a verified, financed treatment endpoint in the referral network.
