@@ -55,10 +55,10 @@ The central question for policymakers is whether we can afford to keep treating 
 
 ## A Plea to Policymakers
 
-We urge every health ministry that has not yet switched to single-dose HPV vaccination to do so immediately.
+1. **Every national health ministry:** Update national immunization policy by December 2026 to adopt the WHO one-dose HPV schedule endorsed in 2022. Report dose coverage for girls ages 9 to 14 annually; countries still requiring two doses should publish a switch date.
 
-We urge national screening programs to adopt self-sampling and same-day treat protocols as the default model, not the pilot exception.
+2. **Gavi and the Global Fund:** Create a dedicated cervical cancer elimination budget line (minimum ten-year commitment) covering single-dose HPV vaccine, HPV self-sampling kits, and portable thermal ablation devices. End standalone three-year pilot funding for a disease WHO has classified as eliminable.
 
-We urge Gavi and the Global Fund to fund cervical cancer elimination as a permanent, multi-decade budget line rather than a renewable experiment.
+3. **National screening programs in the 78 Lancet-model countries:** Make HPV self-sampling and same-day thermal ablation the default protocol, not a demonstration project. Target: 70 percent of HPV-positive women treated within 30 days of result, with no referral step.
 
-We urge WHO member states to report elimination progress against vaccination coverage and screened-and-treated rates, not pilot counts alone.
+4. **World Health Organization member states:** Replace pilot-site reporting with three published metrics: HPV vaccination coverage, percentage of eligible women screened in the prior five years, and percentage of screen-positive women treated. Use Australia's elimination trajectory as the benchmark.

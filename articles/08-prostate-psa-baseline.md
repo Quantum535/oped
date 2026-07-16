@@ -53,10 +53,10 @@ The central question for policymakers is whether we can afford another decade of
 
 ## A Plea to Policymakers
 
-We urge the U.S. Preventive Services Task Force to re-review PSA screening using harm models based on active surveillance and MRI-first pathways, not 2009 treatment patterns.
+1. **U.S. Preventive Services Task Force:** Re-review prostate cancer screening within 18 months using harm models that assume 60 percent active surveillance uptake and MRI-first biopsy pathways, not 2009-era immediate treatment rates. Issue a new recommendation for one baseline PSA (CPT 84153) at age 45 for average-risk men.
 
-We urge the task force to adopt baseline risk-stratified screening: one PSA at 45 for average-risk men, at 40 for Black men and men with family history, with intervals set by the baseline result.
+2. **U.S. Preventive Services Task Force:** Set baseline PSA at age 40 for Black men and for men with a first-degree family history of prostate cancer, matching the 2023 Prostate Cancer Foundation guidance. Stratify follow-up intervals by baseline value: PSA below 1.0 ng/mL, retest every five to ten years; above 3.0 ng/mL, annual or biennial monitoring per Swedish cohort protocols.
 
-We urge guideline bodies to establish an automatic re-review trigger when metastatic incidence rises for a decade after a restriction.
+3. **U.S. Preventive Services Task Force:** Establish an automatic re-review trigger if SEER data show metastatic prostate cancer incidence rising more than 20 percent over any five-year period following a screening restriction, as it did more than 40 percent among men 45 to 74 after the 2012 recommendation.
 
-We urge Medicare to cover baseline PSA and risk-stratified follow-up as a defined preventive benefit, not an unfunded discussion in a fifteen-minute visit.
+4. **Centers for Medicare and Medicaid Services:** Add baseline PSA and risk-stratified PSA follow-up to the Medicare preventive services benefit with zero cost-sharing. Stop treating screening as an unfunded "discuss with your doctor" item in a fifteen-minute visit.

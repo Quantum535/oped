@@ -53,10 +53,10 @@ The central question for policymakers is whether we can afford to buy a hypothes
 
 ## A Plea to Policymakers
 
-We urge Congress to reject a Medicare benefit category for multi-cancer early detection tests until FDA approval and mortality evidence are established.
+1. **U.S. Congress:** Reject the Multi-Cancer Early Detection Screening Coverage Act until any test seeking a Medicare benefit category has FDA premarket approval and at least one randomized trial demonstrating reduction in cancer mortality, not detection alone. The PATHFINDER study (6,662 participants, The Lancet 2023) did not measure mortality.
 
-We urge the Food and Drug Administration to require every MCED advertisement and result letter to state that the test does not replace colonoscopy, mammography, or any proven screening.
+2. **U.S. Food and Drug Administration:** Require every MCED advertisement, patient result letter, and laboratory report for tests such as Galleri ($949 per draw, on market since 2021 without FDA approval) to carry this statement in bold: "This test does not replace colonoscopy, mammography, cervical screening, or lung CT screening."
 
-We urge the National Cancer Institute to fund the Vanguard study as the primary venue for population-scale evaluation, not lobbying-driven coverage.
+3. **National Cancer Institute:** Fund the Vanguard study as the sole federal pathway for population-scale MCED evaluation. Prohibit Medicare payment outside Coverage with Evidence Development registries until the NHS-Galleri randomized trial of 140,000 participants reports its mortality endpoint.
 
-We urge CMS to adopt a symmetric evidentiary standard: if the NHS-Galleri trial shows benefit, expand coverage quickly; until then, restrict payment to registry and trial settings only.
+4. **Centers for Medicare and Medicaid Services:** Adopt a symmetric coverage rule: if the NHS-Galleri trial demonstrates mortality benefit, open a national Medicare benefit within 12 months of publication; until that date, restrict all MCED payment to registry and trial settings with mandatory tracking of proven-screening completion rates.

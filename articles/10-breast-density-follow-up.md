@@ -55,10 +55,10 @@ The central question for policymakers is whether we can afford to keep warning w
 
 ## A Plea to Policymakers
 
-We urge Congress to pass the Find It Early Act and require insurers to cover supplemental and diagnostic breast imaging without cost-sharing.
+1. **U.S. House of Representatives:** Pass the Find It Early Act and require all group and individual health plans to cover supplemental and diagnostic breast imaging (including abbreviated breast MRI, breast ultrasound, and diagnostic mammography) with zero cost-sharing for women with dense breasts.
 
-We urge the Centers for Medicare and Medicaid Services to add no-cost supplemental imaging for extremely dense breasts to the Medicare preventive benefit, beginning with the DENSE trial population.
+2. **Centers for Medicare and Medicaid Services:** Issue a National Coverage Determination for abbreviated breast MRI in women with extremely dense tissue (BI-RADS density category C or D) and a normal mammogram, matching the 2019 DENSE trial population where interval cancers fell from 5.0 to 2.5 per 1,000 screens.
 
-We urge state legislatures to adopt the model laws already operating in states that mandate no-cost dense-breast follow-up.
+3. **State legislatures in states without dense-breast coverage:** Enact Connecticut-style mandatory insurance coverage of supplemental breast imaging by 2027. Thirty-eight states required notification before the FDA federalized the rule in September 2024; coverage must follow notification.
 
-We urge the Food and Drug Administration and CMS to require that density notification letters include information on covered next steps, not only risk disclosure.
+4. **U.S. Food and Drug Administration and Centers for Medicare and Medicaid Services:** Require the federally mandated density notification letter to include a specific next step (which test, which CPT code, and that cost-sharing is prohibited under applicable state and federal law), not risk disclosure alone.

@@ -50,10 +50,10 @@ The central question for policymakers is whether we can afford to keep researchi
 
 ## A Plea to Policymakers
 
-We urge the Centers for Medicare and Medicaid Services and commercial payers to require mailed stool-based screening at age 45 with uptake in the 45-to-49 bracket reported separately from older adults.
+1. **Centers for Medicare and Medicaid Services:** Add a separate HEDIS and Medicare Star Ratings measure for colorectal cancer screening uptake among adults ages 45 to 49. Set a target of 70 percent by 2028, matching the rate for adults 50 and older. Trigger an automatic mailed FIT kit and screening order at the 45th birthday through the Medicare annual wellness visit.
 
-We urge state Medicaid programs and Medicare Advantage plans to adopt a red-flag guarantee: defined symptoms at any age, a scheduled colonoscopy within a fixed number of weeks, publicly reported.
+2. **State Medicaid agencies and Medicare Advantage plans:** Adopt a 28-day diagnostic clock for red-flag symptoms (rectal bleeding, iron-deficiency anemia, persistent change in bowel habits) at any age, modeled on England's urgent referral standard. Publicly report the percentage of symptomatic patients scoped within 28 days.
 
-We urge the Office of the National Coordinator for Health Information Technology to require family history as structured data that automatically triggers earlier screening when guidelines already say it should.
+3. **Office of the National Coordinator for Health Information Technology:** Require colorectal cancer family history as structured FHIR data that automatically lowers the screening start age when existing USPSTF criteria already say it should (including Lynch syndrome and other high-risk histories). One in four early-onset cases had a qualifying family history that intake forms ignored.
 
-We urge the U.S. Preventive Services Task Force to treat symptomatic young adults as a distinct policy problem, not a footnote to age-based screening.
+4. **U.S. Preventive Services Task Force:** Issue a separate recommendation on symptomatic evaluation for adults under 45, independent of the age-45 screening guideline. Do not treat young symptomatic patients as a footnote to population screening.

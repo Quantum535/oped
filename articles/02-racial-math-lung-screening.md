@@ -52,10 +52,10 @@ The central question for policymakers is whether we can afford to keep applying 
 
 ## A Plea to Policymakers
 
-We urge the U.S. Preventive Services Task Force and the American Cancer Society to adopt race-calibrated lung screening thresholds now, because they are the only tested approach that closes the documented gap.
+1. **U.S. Preventive Services Task Force and American Cancer Society:** Adopt the race-calibrated lung screening thresholds from the 2025 JNCI Southern Community Cohort analysis in the next guideline cycle. Target at least 71 percent sensitivity for Black and white patients and no more than a 5 percentage-point gap between Black and white women (down from 23 points under uniform rules).
 
-We urge every guideline body to prohibit adoption of screening algorithms without published performance broken out by race, sex, and other subgroups.
+2. **Every federal guideline body:** Bar adoption of any screening algorithm unless the sponsoring organization publishes sensitivity and specificity for Black patients, white patients, and women separately. The American Cancer Society's 2023 update produced an 18 percentage-point racial gap. No update should take effect without subgroup tables.
 
-We urge the National Institutes of Health and the National Cancer Institute to fund diverse cohort studies large enough to replace race in formulas with the real predictors it currently stands in for.
+3. **National Cancer Institute:** Fund at least five new cohort studies modeled on the Southern Community Cohort Study (52,667 adults, 65 percent Black) within the next appropriations cycle, with minority enrollment no lower than the population the criteria will serve.
 
-We urge every health system receiving federal dollars to audit quarterly whom its lung screening criteria flag, by race, and publish the results.
+4. **Centers for Medicare and Medicaid Services:** Add a Hospital Compare metric requiring every hospital receiving Medicare dollars to report, quarterly, the percentage of eligible Black patients and eligible white patients its lung screening criteria flag. Publish the racial gap alongside the number.

@@ -53,10 +53,10 @@ The central question for policymakers is whether we can afford to keep funding b
 
 ## A Plea to Policymakers
 
-We urge every global cancer donor to replace screenings-delivered metrics with days from positive test to treatment initiation.
+1. **Global Fund, Gates Foundation, USAID, and World Bank:** Replace "screenings delivered" as the lead outcome indicator with median days from positive screen to first treatment. No program receiving more than $10 million should report success unless that interval is published annually. Target: under 60 days in funded districts.
 
-We urge the World Bank, bilateral agencies, and philanthropic funders to withhold screening scale-up until a financed treatment endpoint is verified in the referral network.
+2. **World Bank and bilateral agencies:** Adopt a treatment-anchored expansion rule for every cancer detection loan: no screening scale-up until an independent audit verifies surgery, chemotherapy, or radiotherapy capacity within 90 days and 600 kilometers of the screening site.
 
-We urge WHO and national health ministries to finance oncology workforce development on decade horizons, not election-cycle grants.
+3. **World Health Organization and national health ministries:** Finance pathology, surgical oncology, and radiotherapy physics training on fifteen-year horizons. Bar oncology detection grants shorter than ten years unless they include a bonded workforce retention plan.
 
-We urge pooled procurement bodies to negotiate off-patent essential cancer medicines the way global health already pools vaccines and antiretrovirals.
+4. **Gavi, the Global Fund, and WHO:** Extend pooled procurement to the off-patent essential cancer medicines that account for most of the 1.4 million treatable deaths identified in the February 2026 Lancet Global Health analysis. Publish price per course by country within 24 months.

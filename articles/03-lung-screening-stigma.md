@@ -51,10 +51,10 @@ The central question for policymakers is whether we can afford to keep treating 
 
 ## A Plea to Policymakers
 
-We urge the Centers for Medicare and Medicaid Services to remove the shared-decision-making visit as a prerequisite for lung cancer screening payment and treat the scan like any other covered cancer test.
+1. **Centers for Medicare and Medicaid Services:** Remove the counseling and shared-decision-making visit as a condition of payment for lung cancer screening under NCD 210.14. Allow ordering and reimbursement of low-dose CT (G0297) on the same terms as mammography and colorectal screening, with shared decision-making optional rather than mandatory.
 
-We urge Medicare and Medicaid to require smoking history as structured electronic health record data and to reimburse opt-out mailed screening invitations.
+2. **Office of the National Coordinator for Health Information Technology:** Require smoking history as a structured, USCDI-documented data element by January 2027. Certify that EHR systems auto-generate a lung screening referral when structured smoking data meet USPSTF criteria, the same way systems flag overdue mammograms.
 
-We urge the U.S. Preventive Services Task Force and state Medicaid programs to align outreach policy with mammography and colorectal screening defaults, not stigma-based disclosure.
+3. **Centers for Medicare and Medicaid Services and state Medicaid directors:** Establish a reimbursable opt-out mailed lung screening invitation, modeled on colorectal FIT outreach, with the first patient contact reading: "You qualify for this scan. Here is the number." Set a national uptake target of 50 percent among eligible patients by 2030, up from 17 to 18 percent in the 2025 JAMA CDC analysis.
 
-We urge the Department of Health and Human Services to require patient-facing materials stating that patients with a smoking history already qualify and need not justify past behavior to access screening.
+4. **Department of Health and Human Services:** Require all Medicare- and Medicaid-funded patient materials to state explicitly: "If you have a smoking history, you already qualify. You do not need to justify past smoking to receive this scan."

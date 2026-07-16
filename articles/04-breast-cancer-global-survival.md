@@ -53,10 +53,10 @@ The central question for policymakers is whether we can afford to keep treating 
 
 ## A Plea to Policymakers
 
-We urge PEPFAR, the Global Fund, and bilateral health agencies to finance breast cancer care on ten-to-fifteen-year horizons, not three-year grant cycles.
+1. **PEPFAR, the Global Fund, and USAID:** Shift breast cancer financing from three-year pilots to minimum ten-year commitments. Tie every new grant to the World Health Organization Global Breast Cancer Initiative targets: 60 percent of cases diagnosed at stage I or II, diagnostic workup completed within 60 days, and 80 percent of patients completing treatment.
 
-We urge the World Health Organization's Global Breast Cancer Initiative targets to become binding funding conditions: 60 percent early-stage diagnosis, workup within 60 days, and 80 percent treatment completion.
+2. **Gavi and Unitaid:** Launch pooled procurement for off-patent breast cancer medicines (tamoxifen, doxorubicin, cyclophosphamide, and the WHO Essential Medicines List oncology core) by 2028, using the same mechanism that cut antiretroviral prices below $100 per year.
 
-We urge Gavi and pooled procurement bodies to extend the vaccine procurement model to off-patent cancer medicines so treatment is not priced as a luxury import.
+3. **World Bank and bilateral health agencies:** Freeze procurement of mammography units, ultrasound devices, or mobile screening vans in any country that cannot document, at grant signing, a functioning treatment pathway (pathology, surgery, and chemotherapy) with capacity to start treatment within 60 days of diagnosis.
 
-We urge every donor to adopt a treatment-anchored rule: no detection rollout without a verified, financed treatment endpoint in the referral network.
+4. **Every global health donor:** Stop reporting "screenings delivered" as a primary outcome. Report instead the five-year survival rate in funded districts and the percentage of patients who complete treatment after a positive screen.

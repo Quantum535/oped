@@ -51,10 +51,10 @@ The central question for policymakers is whether we can afford to keep rationing
 
 ## A Plea to Policymakers
 
-We urge the U.S. Preventive Services Task Force to replace fixed pack-year cutoffs with validated risk-prediction models tested against long-term outcomes.
+1. **U.S. Preventive Services Task Force:** In the next lung cancer screening update, replace the fixed 20 pack-year and 15-year quit-smoking cutoffs with JNCI-validated statistical risk models (such as those tested by Aldrich et al. against 52,667 adults and 1,689 incident cancers) that achieve at least 71 percent sensitivity. Publish expected sensitivity by race and sex before any rule is finalized.
 
-We urge the Centers for Medicare and Medicaid Services to align coverage with model-based eligibility so reimbursable patients match the patients the evidence identifies.
+2. **Centers for Medicare and Medicaid Services:** Amend National Coverage Determination 210.14 so Medicare reimburses low-dose CT (HCPCS G0297) for every patient who meets a USPSTF-endorsed validated model threshold, not only patients who clear the pack-year formula. Tie payment to documented model score in the electronic health record.
 
-We urge every guideline body to adopt an audit clock for screening criteria: no eligibility rule without published expected performance, subgroup sensitivity, and scheduled re-testing against real-world outcomes.
+3. **U.S. Food and Drug Administration and CMS:** Apply post-market surveillance rules to screening eligibility algorithms the same way they apply to the scanner: require published performance floors, subgroup reporting, and re-testing against real-world outcomes every five years. Recall or suspend any criteria that fall below 60 percent sensitivity in any subgroup.
 
-We urge hospital regulators and accrediting bodies to require the same post-market accountability for eligibility algorithms that federal law already demands of the scanners themselves.
+4. **The Joint Commission and CMS hospital quality programs:** Within 24 months, require accredited cancer centers to report what share of patients with a smoking history their current criteria flag for screening, and compare that rate to the share flagged by validated risk models run on the same EHR data.

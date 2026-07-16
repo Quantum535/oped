@@ -53,10 +53,10 @@ The central question for policymakers is whether we can afford to keep paying fo
 
 ## A Plea to Policymakers
 
-We urge the Centers for Medicare and Medicaid Services to create a national quality metric for follow-up colonoscopy within 90 days of a positive stool test, publicly reported and tied to Medicare star ratings.
+1. **Centers for Medicare and Medicaid Services:** Create a new HEDIS and Medicare Star Ratings measure: "follow-up colonoscopy completed within 90 days of positive FIT, FOBT, or stool DNA test." Weight it in Star Ratings beginning 2027. Publicly report the rate by health system; the 2017 JAMA Kaiser study showed delay beyond 12 months more than doubles odds of invasive disease.
 
-We urge Medicare and Medicaid to bundle payment for a positive stool test and its colonoscopy as one screening episode, with full payment contingent on loop closure.
+2. **Centers for Medicare and Medicaid Services:** Bundle CPT 82270, 81528, or 81479 with diagnostic colonoscopy (CPT 45378) into a single episode payment. Withhold 40 percent of the bundle until the colonoscopy is completed within 90 days of the positive result.
 
-We urge CMS to require patient navigation reimbursement for positive screening results in every screening program it funds.
+3. **Centers for Medicare and Medicaid Services:** Require patient navigation services (reimbursed since 2024) for every positive stool-based screening result in Medicare Shared Savings Program ACOs and Medicaid managed care contracts. Assign a named navigator within 48 hours of result.
 
-We urge the Department of Health and Human Services to mandate auto-scheduling of colonoscopy at the time of a positive result and to publicize existing federal rules eliminating cost-sharing on follow-up colonoscopy.
+4. **Department of Health and Human Services:** Mandate EHR auto-scheduling of a colonoscopy appointment when a stool test flags positive. Send a Secretary-directed notice to all Medicare Advantage and Medicaid plans reminding them that federal rules eliminated patient cost-sharing on follow-up colonoscopy after a positive screen (private plans 2022, Medicare 2023).

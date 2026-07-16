@@ -56,4 +56,4 @@ oped/
     └── ...
 ```
 
-Each article includes YAML front matter, policy-focused argument, and a closing **A Plea to Policymakers** section with direct asks to legislatures, CMS, USPSTF, and global funders.
+Each article closes with a numbered **A Plea to Policymakers** section naming specific agencies, bills, CPT/HCPCS codes, deadlines, and measurable targets.
