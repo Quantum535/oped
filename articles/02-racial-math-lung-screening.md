@@ -3,9 +3,9 @@ number: 2
 title: "WHY RACE-BLIND SCREENING RULES MISS BLACK PATIENTS' CANCERS"
 author: Soneesh Kothagundla
 topics:
- - lung cancer
- - health equity
- - race-aware calibration
+  - lung cancer
+  - health equity
+  - race-aware calibration
 ---
 
 # WHY RACE-BLIND SCREENING RULES MISS BLACK PATIENTS' CANCERS
@@ -14,84 +14,42 @@ topics:
 
 ---
 
-Here's a number that should stop you cold: under the screening criteria
-most American hospitals use today, the odds that a Black patient's
-future lung cancer would have been flagged in advance were, in a large
-national cohort, as low as 46%. For white patients in the same cohort,
-several of the same criteria caught 72 to 80%. That gap was published
-this year in JNCI: Journal of the National Cancer Institute, and it came
-not from a database of who happened to get screened, but from testing
-the eligibility formulas themselves against fifteen years of who
-actually got sick.
+You are a Black patient with a twenty-year smoking history. You meet every lung screening criterion on paper, but the formula your hospital uses was never tested on patients who look like you. By the time your cancer is found, it has already spread.
 
-The study, led by Melinda Aldrich and colleagues, followed 52,667 adults
-with a smoking history, 65% of them Black, through the Southern
-Community Cohort Study and checked ten screening strategies against the
-1,689 people who went on to be diagnosed. Most strategies flagged fewer
-future Black patients than future white patients, and the newest rule
-performed worst: the American Cancer Society's 2023 update, presented as
-a refinement, produced the largest racial sensitivity gap of any
-strategy tested, 18 percentage points.
+The solution is straightforward. Race-calibrated screening thresholds close the gap between Black and white patients without lowering the standard of care. Yet most hospitals still apply uniform rules because guideline bodies have not required subgroup performance reporting. The result is predictable: Black patients continue to be less likely to be flagged for the one test that turns fatal-stage lung cancer into survivable disease.
 
-Here is the finding that should complicate everyone's instincts:
-removing race from the models entirely (the race-blind approach that
-sounds like fairness) made the disparity worse, not better. A model
-built primarily on data from one population inherits that population's
-patterns and applies them uniformly where they don't hold. Deleting the
-word "race" doesn't delete the bias baked into the training data; it
-just hides where the bias comes from. What worked was the opposite:
-race-aware calibration, explicitly adjusting eligibility thresholds to
-correct the disparity the uniform formula produces. Applied to standard
-risk models, it lifted sensitivity to 71–73% for both groups and cut the
-gap between Black and white women from 23 percentage points to 5.
+Problem magnitude
 
-So why hasn't it been adopted? Because it arrives at the worst possible
-political moment. American medicine is in the middle of a movement to
-strip race out of clinical algorithms, kidney function, lung function, 
-and often rightly, where race operated as a crude penalty on Black
-patients. But that momentum has hardened into a reflex: any race term in
-any formula is now suspect. The lung screening data exposes the flaw in
-the reflex. There is a difference between deleting race and pretending
-the bias left with it, and using race deliberately to cancel a measured
-bias out. In this case, colorblindness is not neutrality. It is a policy
-choice that reallocates missed cancers onto Black patients, in
-quantities a peer-reviewed study has now counted.
+Under the screening criteria most American hospitals use today, the odds that a Black patient's future lung cancer would have been flagged in advance were, in a large national cohort, as low as 46 percent. For white patients in the same cohort, several of the same criteria caught 72 to 80 percent. That gap was published this year in JNCI: Journal of the National Cancer Institute, and it came not from a database of who happened to get screened, but from testing the eligibility formulas themselves against fifteen years of who actually got sick.
 
----
+The study, led by Melinda Aldrich and colleagues, followed 52,667 adults with a smoking history, 65 percent of them Black, through the Southern Community Cohort Study and checked ten screening strategies against the 1,689 people who went on to be diagnosed. Most strategies flagged fewer future Black patients than future white patients. Most importantly, the American Cancer Society's 2023 update, presented as a refinement, produced the largest racial sensitivity gap of any strategy tested: 18 percentage points.
 
-## What to Do
+The evidence on what works
 
-Stopping this requires a bridge and a destination. The bridge: guideline
-bodies should adopt the race-calibrated thresholds now, because they are
-published, validated against real outcomes, and the only tested approach
-that closes the gap. The destination: retire race from the formula the
-honest way, by replacing it with whatever race is currently standing in
-for. That means funding research cohorts diverse enough for models to
-learn the real predictors, whether family history, biomarkers, or
-cumulative exposures; the Southern Community Cohort that produced this
-study is the template, and it should not be nearly as rare as it is.
-Alongside both: no eligibility algorithm should be adopted anywhere in
-medicine without published performance broken out by subgroup, the JNCI
-authors had to reconstruct that accountability from scratch, a decade
-late. And health systems need not wait for any of it. Every large system
-holds the electronic records to audit whom its screening criteria flag,
-by race, this quarter. The ones that look will find the same thing the
-study did.
+Research demonstrates that removing race from the models entirely, the race-blind approach that sounds like fairness, made the disparity worse, not better. A model built primarily on data from one population inherits that population's patterns and applies them uniformly where they do not hold. Deleting the word "race" does not delete the bias baked into the training data. It only hides where the bias comes from.
 
----
+What worked was the opposite. Race-aware calibration, explicitly adjusting eligibility thresholds to correct the disparity the uniform formula produces, lifted sensitivity to 71 to 73 percent for both groups and cut the gap between Black and white women from 23 percentage points to 5. This represents a real difference between a screening system that misses Black patients by design and one that flags them at the same rate as everyone else.
 
-Every year the current criteria stay in place, Black patients are
-systematically less likely to be flagged for the one test that turns a
-fatal-stage lung cancer into a survivable one. The fix is uncomfortable,
-explicit about race, and proven to work. The comfortable version is
-already in place, and it is failing exactly the people it was never
-tested on.
+The equity issue requires particular attention
+
+American medicine is in the middle of a movement to strip race out of clinical algorithms, and often rightly, where race operated as a crude penalty on Black patients. But that momentum has hardened into a reflex: Any race term in any formula is now suspect. The lung screening data exposes the flaw in the reflex. There is a difference between deleting race and pretending the bias left with it, and using race deliberately to cancel a measured bias out. In this case, colorblindness is not neutrality. It is a policy choice that reallocates missed cancers onto Black patients, in quantities a peer-reviewed study has now counted.
+
+Addressing reasonable concerns
+
+Some people question whether race-aware calibration will face political resistance. The solution is simple: Treat it as a bridge, not a destination. Adopt calibrated thresholds now because they are published, validated against real outcomes, and the only tested approach that closes the gap. Fund diverse research cohorts so race can eventually be retired from the formula and replaced by the real predictors it currently stands in for.
+
+Another concern is that hospitals lack the data to act. Research shows the opposite: Every large health system holds the electronic records to audit whom its screening criteria flag, by race, this quarter. The ones that look will find the same thing the study did.
+
+A third counterargument points to waiting for perfect models before changing policy. However, only a single year of unchanged criteria means another year of systematically missed Black patients. The comfortable version is already in place, and it is failing exactly the people it was never tested on.
+
+The path forward
+
+Guideline bodies should adopt race-calibrated thresholds now. No eligibility algorithm should be adopted anywhere in medicine without published performance broken out by subgroup. The Southern Community Cohort that produced this study is the template for the diverse data we need, and it should not be nearly as rare as it is.
+
+The central question for policymakers is whether we can afford to keep applying screening rules that were never validated on the patients who need them most. The case is clear and compelling: The science, the equity considerations, and the moral logic all support action. Every guideline body and hospital leader should recognize subgroup accountability as a critical investment in finding lung cancer before it kills.
 
 ---
 
 ## Take Action
 
-If you lead a health system, audit this quarter how many eligible Black
-and white patients your lung screening criteria actually flag. Guideline
-bodies should adopt race-calibrated thresholds now and publish subgroup
-performance for every screening algorithm before it reaches patients.
+If you lead a health system, audit this quarter how many eligible Black and white patients your lung screening criteria actually flag. Guideline bodies should adopt race-calibrated thresholds now and publish subgroup performance for every screening algorithm before it reaches patients.

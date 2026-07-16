@@ -3,10 +3,10 @@ number: 5
 title: "THE EXCUSES FOR NOT ELIMINATING CERVICAL CANCER HAVE EXPIRED"
 author: Soneesh Kothagundla
 topics:
- - cervical cancer
- - HPV
- - global health
- - elimination
+  - cervical cancer
+  - HPV
+  - global health
+  - elimination
 ---
 
 # THE EXCUSES FOR NOT ELIMINATING CERVICAL CANCER HAVE EXPIRED
@@ -15,86 +15,44 @@ topics:
 
 ---
 
-Here's what makes cervical cancer different from almost every other
-cancer on earth: we know exactly what causes it, we have a vaccine that
-prevents it, and we have a test that catches it years before it turns
-dangerous. By oncology's standards it is close to a solved problem. Yet
-when a pair of modelling studies in The Lancet asked in 2020 how long
-elimination would actually take across 78 low- and lower-middle-income
-countries, the answer was brutal: under high vaccination coverage alone,
-somewhere between 2059 and 2102. Adding twice-in-a-lifetime HPV
-screening pulled elimination forward by 11 to 31 years, and a separate
-Lancet Global Health review of 202 countries showed the places furthest
-behind are precisely the ones without a funded screening program
-actually operating, whatever their paper policies say.
+You live in a country where cervical cancer is still among the leading causes of cancer death. You learn that a vaccine prevents the infection that causes it, a self-collected test catches it early, and a nurse can treat precancerous cells the same day. None of it reaches your district because the program is still labeled a pilot.
 
-For years, the response to those timelines has been a shrug dressed as
-realism: vaccines are expensive, screening requires clinics and speculum
-exams and lab infrastructure, health budgets are finite. Here is what
-that shrug ignores: since those models were published, nearly every
-number they were priced on has collapsed.
+The solution is straightforward. Cervical cancer is close to a solved problem by oncology standards. Yet modelling studies in The Lancet projected elimination across 78 low- and lower-middle-income countries would not arrive until between 2059 and 2102 under vaccination alone. The result is predictable: The next century's cases will be evidence we declined tools that already exist.
 
-Start with the vaccine. In 2022, after trial evidence showed a single
-dose protects about as well as two, the World Health Organization
-endorsed one-dose HPV vaccination schedules. At a stroke, the same
-budget and the same vials reach twice as many girls, and the hardest
-logistical problem, getting each child back for a second visit, 
-disappears. Dozens of countries have already switched.
+Problem magnitude
 
-Then the screening. The test no longer requires a pelvic exam, a
-clinician, or even a clinic: WHO-recommended HPV self-sampling lets a
-woman collect her own swab in minutes, which converts screening from a
-scarce clinical service into something closer to a distribution problem.
-And for women who test positive, portable thermal ablation devices now
-allow a trained nurse to treat precancerous lesions the same day, in the
-same room, no referral, no loss to follow-up, no waiting for the gap
-between diagnosis and treatment to swallow the patient.
+Cervical cancer is one of the few diseases where we know exactly what causes it, we have a vaccine that prevents it, and we have a test that catches it years before it turns dangerous. A separate Lancet Global Health review of 202 countries showed the places furthest behind are precisely the ones without a funded screening program actually operating, whatever their paper policies say.
 
-In other words, the 2020 elimination timelines were built on a costlier
-world. Every major input, vaccine doses per girl, personnel per test,
-visits per treatment, has since been cut in half or better. The science
-was never the obstacle, and now the economics isn't either. What remains
-is a financing structure that still treats a disease we can eliminate as
-a rolling series of pilot projects.
+For years, the response to those timelines has been a shrug dressed as realism: vaccines are expensive, screening requires clinics and speculum exams and lab infrastructure, health budgets are finite. Since those models were published, nearly every number they were priced on has collapsed.
 
----
+National momentum and remaining gaps
 
-## What to Do
+In 2022, after trial evidence showed a single dose protects about as well as two, the World Health Organization endorsed one-dose HPV vaccination schedules. At a stroke, the same budget and the same vials reach twice as many girls, and the hardest logistical problem, getting each child back for a second visit, disappears. Dozens of countries have already switched.
 
-So the "how" is unusually concrete. Countries that haven't switched to
-single-dose vaccination schedules should, immediately: it is the rare
-policy that doubles coverage while cutting costs. Screening programs
-should be built around self-sampling and same-day treat protocols as the
-default model, not the pilot, because the default determines what
-scales. Gavi and the Global Fund, which financed the vaccine and testing
-revolutions in HIV and routine immunization, should carry cervical
-cancer elimination as a permanent, multi-decade budget line rather than
-a renewable experiment: the modelling is unambiguous that consistency,
-not novelty, is what moves the date. None of this is speculative:
-Australia paired sustained vaccination with organized screening and is
-on track to become the first country to eliminate cervical cancer, years
-ahead of the WHO's own targets. The 78 countries in the Lancet models
-need the same two interventions, now cheaper than Australia ever had
-them.
+The test no longer requires a pelvic exam, a clinician, or even a clinic. WHO-recommended HPV self-sampling lets a woman collect her own swab in minutes, which converts screening from a scarce clinical service into something closer to a distribution problem. For women who test positive, portable thermal ablation devices now allow a trained nurse to treat precancerous lesions the same day, in the same room, with no referral and no loss to follow-up.
 
----
+Australia paired sustained vaccination with organized screening and is on track to become the first country to eliminate cervical cancer, years ahead of the WHO's own targets. Despite this progress, significant gaps remain. Most importantly, not every country has adopted single-dose schedules. Many still fund elimination as a rolling series of pilot projects rather than permanent infrastructure.
 
-The February 2026 Lancet Global Health accounting of avoidable cancer
-deaths found cervical cancer's burden concentrated almost entirely in
-the world's poorest countries, one of the few cancers where "avoidable"
-and "unequal" are statistically the same finding. That was tolerable to
-consciences, if never to patients, when elimination was expensive. It is
-now a disease we know how to end, at a price that has already been
-slashed, on a timeline that is purely a budget decision. The next
-century's cases won't be evidence the problem was hard. They'll be
-evidence we declined a discount.
+The financial case is equally compelling
+
+Every major input, vaccine doses per girl, personnel per test, and visits per treatment, has since been cut in half or better. The science was never the obstacle, and now the economics is not either. In comparison, the cost of sustaining pilot programs for a preventable disease exceeds the cost of building a permanent elimination budget line.
+
+Addressing reasonable concerns
+
+Some people question whether single-dose vaccination provides enough protection. Research demonstrates that trial evidence supported the WHO endorsement, and dozens of countries have already made the switch without reported loss of effectiveness.
+
+Another concern is that self-sampling will reduce follow-up rates. Research shows the opposite: Same-day treat protocols eliminate the gap between diagnosis and treatment that swallows patients in traditional referral systems.
+
+A third counterargument points to the complexity of national rollout. However, only a permanent budget commitment will move elimination dates by decades. Gavi and the Global Fund financed the vaccine revolutions in HIV and routine immunization. Cervical cancer elimination deserves the same multi-decade line.
+
+The path forward
+
+Countries that have not switched to single-dose vaccination schedules should do it immediately. Screening programs should be built around self-sampling and same-day treat protocols as the default model, not the pilot. Gavi and the Global Fund should carry cervical cancer elimination as a permanent budget line rather than a renewable experiment.
+
+The central question for policymakers is whether we can afford to keep treating a preventable cancer as a pilot project. The case is clear and compelling: The science, the economics, and the proof from Australia all support action. Every health ministry and donor should recognize cervical cancer elimination as a critical investment in ending a disease we already know how to stop.
 
 ---
 
 ## Take Action
 
-Health ministries that have not switched to single-dose HPV vaccination
-should do it now. Donors at Gavi and the Global Fund should fund
-cervical cancer elimination as a multi-decade line item, not another
-pilot. Elimination is a budget decision, and the price has already
-dropped.
+Health ministries that have not switched to single-dose HPV vaccination should do it now. Donors at Gavi and the Global Fund should fund cervical cancer elimination as a multi-decade line item, not another pilot. Elimination is a budget decision, and the price has already dropped.
