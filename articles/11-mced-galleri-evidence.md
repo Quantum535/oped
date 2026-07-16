@@ -1,6 +1,6 @@
 ---
 number: 11
-title: "A $949 BLOOD TEST PROMISES TO CATCH 50 CANCERS. NO ONE KNOWS IF IT SAVES A SINGLE LIFE."
+title: "Britain Is Testing the 50-Cancer Blood Test. America Is Buying It Blind."
 author: Soneesh Kothagundla
 topics:
   - multi-cancer early detection
@@ -9,7 +9,7 @@ topics:
   - evidence
 ---
 
-# A $949 BLOOD TEST PROMISES TO CATCH 50 CANCERS. NO ONE KNOWS IF IT SAVES A SINGLE LIFE.
+# Britain Is Testing the 50-Cancer Blood Test. America Is Buying It Blind.
 
 *By Soneesh Kothagundla*
 
@@ -21,7 +21,7 @@ None of that has slowed the policy machinery. Congress has entertained the heavi
 
 **What the test has actually shown**
 
-The published evidence comes largely from PATHFINDER, a 6,662-person study in The Lancet in 2023. The test flagged a possible cancer signal in about one percent of participants. Among those flagged, 38 percent turned out to have cancer. Read in reverse: roughly six in ten positives were false alarms, each launching a cascade of imaging, referrals, sometimes invasive procedures, and months of dread. The test found real cancers, including some nothing else would have caught. What the study could not show, and was not designed to show, is whether finding them changed a single outcome.
+The published evidence comes largely from PATHFINDER, a 6,662-person study in The Lancet in 2023. The test flagged a possible cancer signal in about 1.4 percent of participants. Among those flagged, 38 percent turned out to have cancer. Read in reverse: roughly six in ten positives were false alarms, each launching a cascade of imaging, referrals, sometimes invasive procedures, and months of dread. The test found real cancers, including some nothing else would have caught. What the study could not show, and was not designed to show, is whether finding them changed a single outcome.
 
 That distinction is not pedantry. It is the entire history of screening. Starting the survival clock earlier is not the same as moving the date of death, and some detected cancers would never have harmed anyone. Ovarian cancer supplies the cautionary tale: the UKCTOCS trial enrolled more than 200,000 women, followed them for nearly two decades, meaningfully shifted diagnoses earlier, and produced no significant reduction in deaths. Earlier detection is the mechanism. Mortality is the test. Ovarian screening passed the first, failed the second, and is recommended nowhere today.
 
@@ -50,3 +50,14 @@ Congress should hold the line: no Medicare benefit category until a test has FDA
 3. **National Cancer Institute:** Fund the Vanguard study as the sole federal pathway for population-scale MCED evaluation. Prohibit Medicare payment outside Coverage with Evidence Development registries until the NHS-Galleri randomized trial of 140,000 participants reports its mortality endpoint.
 
 4. **Centers for Medicare and Medicaid Services:** Adopt a symmetric coverage rule: if the NHS-Galleri trial demonstrates mortality benefit, open a national Medicare benefit within 12 months of publication; until that date, restrict all MCED payment to registry and trial settings with mandatory tracking of proven-screening completion rates.
+
+---
+
+## Sources
+
+1. Schrag D, Beer TM, McDonnell CH 3rd, et al. "Blood-based tests for multicancer early detection (PATHFINDER): a prospective cohort study." *The Lancet* 2023;402(10409):1251-1260. https://doi.org/10.1016/S0140-6736(23)01700-2
+2. Menon U, Gentry-Maharaj A, Burnell M, et al. "Ovarian cancer population screening and mortality after long-term follow-up in the UK Collaborative Trial of Ovarian Cancer Screening (UKCTOCS): a randomised controlled trial." *The Lancet* 2021;397(10290):2182-2193. https://doi.org/10.1016/S0140-6736(21)00731-5
+3. Neal RD, Johnson P, Clarke CA, et al. "Cell-Free DNA-Based Multi-Cancer Early Detection Test in an Asymptomatic Screening Population (NHS-Galleri): Design of a Pragmatic, Prospective Randomised Controlled Trial." *Cancers (Basel)* 2022;14(19):4818. https://doi.org/10.3390/cancers14194818 (ISRCTN91431511)
+4. National Cancer Institute. "NCI Launches Cancer Screening Research Network" (Vanguard Study). February 2024. https://www.cancer.gov/news-events/press-releases/2024/cancer-screening-research-network-launches
+5. Nancy Gardner Sewell Medicare Multi-Cancer Early Detection Screening Coverage Act, S.339 and H.R.842, 119th Congress (2025-2026). https://www.congress.gov/bill/119th-congress/senate-bill/339
+6. GRAIL. "Galleri Test: Frequently Asked Questions." (List price $949; not cleared or approved by the FDA.) https://www.galleri.com/patient/faqs

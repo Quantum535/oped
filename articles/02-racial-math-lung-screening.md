@@ -1,6 +1,6 @@
 ---
 number: 2
-title: "RACE-BLIND SCREENING SOUNDS FAIR. IT MISSES HALF OF BLACK PATIENTS' LUNG CANCERS."
+title: "Colorblind Cancer Screening Isn't Fairness. It's How Black Patients Get Missed."
 author: Soneesh Kothagundla
 topics:
   - lung cancer
@@ -8,7 +8,7 @@ topics:
   - race-aware calibration
 ---
 
-# RACE-BLIND SCREENING SOUNDS FAIR. IT MISSES HALF OF BLACK PATIENTS' LUNG CANCERS.
+# Colorblind Cancer Screening Isn't Fairness. It's How Black Patients Get Missed.
 
 *By Soneesh Kothagundla*
 
@@ -20,7 +20,7 @@ This is not a story about patient behavior, and it is not a story that better ou
 
 **What the cohort showed**
 
-The numbers come from a study published this year in JNCI: Journal of the National Cancer Institute, led by Melinda Aldrich and colleagues. It followed 52,667 adults with a smoking history, 65 percent of them Black, through the Southern Community Cohort Study and tested ten screening strategies against fifteen years of actual diagnoses: 1,689 lung cancers. This was not a database of who happened to get screened. It was a direct examination of the eligibility formulas themselves, checked against who actually got sick.
+The numbers come from a study published in JNCI: Journal of the National Cancer Institute, led by Adoma Manful and Melinda Aldrich. It followed 52,667 adults with a smoking history, 65 percent of them Black, through the Southern Community Cohort Study and tested ten screening strategies against fifteen years of actual diagnoses: 1,689 lung cancers. This was not a database of who happened to get screened. It was a direct examination of the eligibility formulas themselves, checked against who actually got sick.
 
 Most strategies flagged fewer future Black patients than future white patients. And the worst performer was the newest. The American Cancer Society's 2023 update, presented as a refinement, produced the largest racial sensitivity gap of any strategy tested: 18 percentage points.
 
@@ -46,10 +46,18 @@ Every year of unchanged criteria is another year of systematically missed Black 
 
 ## A Plea to Policymakers
 
-1. **U.S. Preventive Services Task Force and American Cancer Society:** Adopt the race-calibrated lung screening thresholds from the 2025 JNCI Southern Community Cohort analysis in the next guideline cycle. Target at least 71 percent sensitivity for Black and white patients and no more than a 5 percentage-point gap between Black and white women (down from 23 points under uniform rules).
+1. **U.S. Preventive Services Task Force and American Cancer Society:** Adopt the race-calibrated lung screening thresholds from the 2026 JNCI Southern Community Cohort analysis (Manful, Aldrich, et al.) in the next guideline cycle. Target at least 71 percent sensitivity for Black and white patients and no more than a 5 percentage-point gap between Black and white women (down from 23 points under uniform rules).
 
 2. **Every federal guideline body:** Bar adoption of any screening algorithm unless the sponsoring organization publishes sensitivity and specificity for Black patients, white patients, and women separately. The American Cancer Society's 2023 update produced an 18 percentage-point racial gap. No update should take effect without subgroup tables.
 
 3. **National Cancer Institute:** Fund at least five new cohort studies modeled on the Southern Community Cohort Study (52,667 adults, 65 percent Black) within the next appropriations cycle, with minority enrollment no lower than the population the criteria will serve.
 
 4. **Centers for Medicare and Medicaid Services:** Add a Hospital Compare metric requiring every hospital receiving Medicare dollars to report, quarterly, the percentage of eligible Black patients and eligible white patients its lung screening criteria flag. Publish the racial gap alongside the number.
+
+---
+
+## Sources
+
+1. Manful A, Mercaldo S, Blume JD, Aldrich MC. "Addressing algorithmic bias in lung cancer screening eligibility." *JNCI: Journal of the National Cancer Institute* 2026;118(2):343-353. https://doi.org/10.1093/jnci/djaf298
+2. Wolf AMD, Oeffinger KC, Shih TY-C, et al. "Screening for lung cancer: 2023 guideline update from the American Cancer Society." *CA: A Cancer Journal for Clinicians* 2024;74(1):50-81. https://doi.org/10.3322/caac.21811
+3. US Preventive Services Task Force. "Screening for Lung Cancer: US Preventive Services Task Force Recommendation Statement." *JAMA* 2021;325(10):962-970. https://doi.org/10.1001/jama.2021.1117

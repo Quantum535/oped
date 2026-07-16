@@ -1,6 +1,6 @@
 ---
 number: 6
-title: "STOP COUNTING CANCER SCREENINGS. START COUNTING THE DAYS TO TREATMENT."
+title: "A Cancer Test With No Treatment Behind It Isn't Medicine. It's Paperwork."
 author: Soneesh Kothagundla
 topics:
   - global health
@@ -9,7 +9,7 @@ topics:
   - metrics
 ---
 
-# STOP COUNTING CANCER SCREENINGS. START COUNTING THE DAYS TO TREATMENT.
+# A Cancer Test With No Treatment Behind It Isn't Medicine. It's Paperwork.
 
 *By Soneesh Kothagundla*
 
@@ -54,3 +54,11 @@ None of this is technically hard. It is only uncomfortable, because the current 
 3. **World Health Organization and national health ministries:** Finance pathology, surgical oncology, and radiotherapy physics training on fifteen-year horizons. Bar oncology detection grants shorter than ten years unless they include a bonded workforce retention plan.
 
 4. **Gavi, the Global Fund, and WHO:** Extend pooled procurement to the off-patent essential cancer medicines that account for most of the 1.4 million treatable deaths identified in the February 2026 Lancet Global Health analysis. Publish price per course by country within 24 months.
+
+---
+
+## Sources
+
+1. Langselius O, Rumgay H, Vignat J, et al. "Avoidable deaths through the primary prevention, early detection, and curative treatment of cancer worldwide: a population-based study." *The Lancet Global Health*. Published online February 16, 2026. https://doi.org/10.1016/S2214-109X(25)00494-2
+2. Allemani C, Matsuda T, Di Carlo V, et al. "Global surveillance of trends in cancer survival 2000-14 (CONCORD-3)." *The Lancet* 2018;391(10125):1023-1075. https://doi.org/10.1016/S0140-6736(17)33326-3
+3. World Health Organization. "Global breast cancer initiative implementation framework." Geneva: WHO; 2023. https://www.who.int/publications/i/item/9789240065987

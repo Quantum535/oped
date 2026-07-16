@@ -1,6 +1,6 @@
 ---
 number: 3
-title: "THE ONLY CANCER SCREENING IN AMERICA THAT REQUIRES A CONFESSION"
+title: "Every Cancer Screening Starts With a Birthday. Lung Screening Starts With Shame."
 author: Soneesh Kothagundla
 topics:
   - lung cancer
@@ -9,7 +9,7 @@ topics:
   - uptake
 ---
 
-# THE ONLY CANCER SCREENING IN AMERICA THAT REQUIRES A CONFESSION
+# Every Cancer Screening Starts With a Birthday. Lung Screening Starts With Shame.
 
 *By Soneesh Kothagundla*
 
@@ -49,10 +49,18 @@ Two out of three lung cancers are still caught at a stage where five-year surviv
 
 ## A Plea to Policymakers
 
-1. **Centers for Medicare and Medicaid Services:** Remove the counseling and shared-decision-making visit as a condition of payment for lung cancer screening under NCD 210.14. Allow ordering and reimbursement of low-dose CT (G0297) on the same terms as mammography and colorectal screening, with shared decision-making optional rather than mandatory.
+1. **Centers for Medicare and Medicaid Services:** Remove the counseling and shared-decision-making visit as a condition of payment for lung cancer screening under NCD 210.14. Allow ordering and reimbursement of low-dose CT (CPT 71271) on the same terms as mammography and colorectal screening, with shared decision-making optional rather than mandatory.
 
 2. **Office of the National Coordinator for Health Information Technology:** Require smoking history as a structured, USCDI-documented data element by January 2027. Certify that EHR systems auto-generate a lung screening referral when structured smoking data meet USPSTF criteria, the same way systems flag overdue mammograms.
 
 3. **Centers for Medicare and Medicaid Services and state Medicaid directors:** Establish a reimbursable opt-out mailed lung screening invitation, modeled on colorectal FIT outreach, with the first patient contact reading: "You qualify for this scan. Here is the number." Set a national uptake target of 50 percent among eligible patients by 2030, up from 17 to 18 percent in the 2025 JAMA CDC analysis.
 
 4. **Department of Health and Human Services:** Require all Medicare- and Medicaid-funded patient materials to state explicitly: "If you have a smoking history, you already qualify. You do not need to justify past smoking to receive this scan."
+
+---
+
+## Sources
+
+1. Potter AL, Kothagundla S, Haridas C, et al. "Preventive Health Care Use Among Adults Eligible for Lung Cancer Screening in the US." *JAMA* 2025;333(18):1635-1638. https://doi.org/10.1001/jama.2025.2157
+2. Centers for Medicare and Medicaid Services. "National Coverage Determination (NCD) 210.14: Lung Cancer Screening with Low Dose Computed Tomography (LDCT)." Effective February 10, 2022. https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=364
+3. National Lung Screening Trial Research Team. "Reduced Lung-Cancer Mortality with Low-Dose Computed Tomographic Screening." *New England Journal of Medicine* 2011;365(5):395-409. https://doi.org/10.1056/NEJMoa1102873

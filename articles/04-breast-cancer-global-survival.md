@@ -1,6 +1,6 @@
 ---
 number: 4
-title: "WE WROTE THE PLAYBOOK THAT BEAT AIDS. BREAST CANCER IS STILL WAITING FOR IT."
+title: "200,000 Women a Year Die of a Breast Cancer We Already Know How to Cure"
 author: Soneesh Kothagundla
 topics:
   - breast cancer
@@ -9,7 +9,7 @@ topics:
   - survival gap
 ---
 
-# WE WROTE THE PLAYBOOK THAT BEAT AIDS. BREAST CANCER IS STILL WAITING FOR IT.
+# 200,000 Women a Year Die of a Breast Cancer We Already Know How to Cure
 
 *By Soneesh Kothagundla*
 
@@ -54,3 +54,14 @@ The AIDS response proved the world can build cancer-scale treatment systems in p
 3. **World Bank and bilateral health agencies:** Freeze procurement of mammography units, ultrasound devices, or mobile screening vans in any country that cannot document, at grant signing, a functioning treatment pathway (pathology, surgery, and chemotherapy) with capacity to start treatment within 60 days of diagnosis.
 
 4. **Every global health donor:** Stop reporting "screenings delivered" as a primary outcome. Report instead the five-year survival rate in funded districts and the percentage of patients who complete treatment after a positive screen.
+
+---
+
+## Sources
+
+1. Birnbaum JK, Duggan C, Anderson BO, Etzioni R. "Early detection and treatment strategies for breast cancer in low-income and upper middle-income countries: a modelling study." *The Lancet Global Health* 2018;6(8):e885-e893. https://doi.org/10.1016/S2214-109X(18)30257-2
+2. Allemani C, Matsuda T, Di Carlo V, et al. "Global surveillance of trends in cancer survival 2000-14 (CONCORD-3)." *The Lancet* 2018;391(10125):1023-1075. https://doi.org/10.1016/S0140-6736(17)33326-3
+3. Langselius O, Rumgay H, Vignat J, et al. "Avoidable deaths through the primary prevention, early detection, and curative treatment of cancer worldwide: a population-based study." *The Lancet Global Health*. Published online February 16, 2026. https://doi.org/10.1016/S2214-109X(25)00494-2
+4. World Health Organization. "Global breast cancer initiative implementation framework." Geneva: WHO; 2023. https://www.who.int/publications/i/item/9789240065987
+5. U.S. President's Emergency Plan for AIDS Relief (PEPFAR). "PEPFAR." HIV.gov. https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar
+6. UNAIDS. "Global HIV and AIDS statistics: Fact sheet." 2025. https://www.unaids.org/en/resources/fact-sheet

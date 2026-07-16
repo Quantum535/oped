@@ -1,6 +1,6 @@
 ---
 number: 5
-title: "EVERY EXCUSE FOR NOT ELIMINATING CERVICAL CANCER HAS EXPIRED"
+title: "One Shot, One Swab, One Visit: The Cancer We Refuse to End"
 author: Soneesh Kothagundla
 topics:
   - cervical cancer
@@ -9,7 +9,7 @@ topics:
   - elimination
 ---
 
-# EVERY EXCUSE FOR NOT ELIMINATING CERVICAL CANCER HAS EXPIRED
+# One Shot, One Swab, One Visit: The Cancer We Refuse to End
 
 *By Soneesh Kothagundla*
 
@@ -54,3 +54,13 @@ A disease that is preventable by one shot, detectable by one swab, and treatable
 3. **National screening programs in the 78 Lancet-model countries:** Make HPV self-sampling and same-day thermal ablation the default protocol, not a demonstration project. Target: 70 percent of HPV-positive women treated within 30 days of result, with no referral step.
 
 4. **World Health Organization member states:** Replace pilot-site reporting with three published metrics: HPV vaccination coverage, percentage of eligible women screened in the prior five years, and percentage of screen-positive women treated. Use Australia's elimination trajectory as the benchmark.
+
+---
+
+## Sources
+
+1. Brisson M, Kim JJ, Canfell K, et al. "Impact of HPV vaccination and cervical screening on cervical cancer elimination: a comparative modelling analysis in 78 low-income and lower-middle-income countries." *The Lancet* 2020;395(10224):575-590. https://doi.org/10.1016/S0140-6736(20)30068-4
+2. Bruni L, Serrano B, Roura E, et al. "Cervical cancer screening programmes and age-specific coverage estimates for 202 countries and territories worldwide." *The Lancet Global Health* 2022;10(8):e1115-e1127. https://doi.org/10.1016/S2214-109X(22)00241-8
+3. World Health Organization. "WHO updates recommendations on HPV vaccination schedule." 20 December 2022. https://www.who.int/news/item/20-12-2022-WHO-updates-recommendations-on-HPV-vaccination-schedule
+4. Barnabas RV, Brown ER, Onono MA, et al. "Efficacy of Single-Dose Human Papillomavirus Vaccination among Young African Women (KEN SHE)." *NEJM Evidence* 2022;1(5):EVIDoa2100056. https://doi.org/10.1056/EVIDoa2100056
+5. Hall MT, Simms KT, Lew J-B, et al. "The projected timeframe until cervical cancer elimination in Australia: a modelling study." *The Lancet Public Health* 2019;4(1):e19-e27. https://doi.org/10.1016/S2468-2667(18)30183-X

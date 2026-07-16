@@ -1,6 +1,6 @@
 ---
 number: 10
-title: "THE MAMMOGRAM WARNING IS FEDERAL. THE ANSWER COSTS $1,000."
+title: "The Law Guarantees Women a Cancer Warning. Not the Test That Follows It."
 author: Soneesh Kothagundla
 topics:
   - breast cancer
@@ -9,7 +9,7 @@ topics:
   - coverage
 ---
 
-# THE MAMMOGRAM WARNING IS FEDERAL. THE ANSWER COSTS $1,000.
+# The Law Guarantees Women a Cancer Warning. Not the Test That Follows It.
 
 *By Soneesh Kothagundla*
 
@@ -56,3 +56,14 @@ A warning that arrives without a covered next step is not prevention. It is liab
 3. **State legislatures in states without dense-breast coverage:** Enact Connecticut-style mandatory insurance coverage of supplemental breast imaging by 2027. Thirty-eight states required notification before the FDA federalized the rule in September 2024; coverage must follow notification.
 
 4. **U.S. Food and Drug Administration and Centers for Medicare and Medicaid Services:** Require the federally mandated density notification letter to include a specific next step (which test, which CPT code, and that cost-sharing is prohibited under applicable state and federal law), not risk disclosure alone.
+
+---
+
+## Sources
+
+1. U.S. Food and Drug Administration. "Final Rule to Amend the Mammography Quality Standards Act (MQSA)." Issued March 10, 2023; compliance September 10, 2024. https://www.fda.gov/radiation-emitting-products/mammography-quality-standards-act-mqsa-and-mqsa-program/important-information-final-rule-amend-mammography-quality-standards-act-mqsa
+2. Bakker MF, de Lange SV, Pijnappel RM, et al. "Supplemental MRI Screening for Women with Extremely Dense Breast Tissue (DENSE trial)." *New England Journal of Medicine* 2019;381(22):2091-2102. https://doi.org/10.1056/NEJMoa1903986
+3. Comstock CE, Gatsonis C, Newstead GM, et al. "Comparison of Abbreviated Breast MRI vs Digital Breast Tomosynthesis for Breast Cancer Detection Among Women With Dense Breasts Undergoing Screening." *JAMA* 2020;323(8):746-756. https://doi.org/10.1001/jama.2020.0572
+4. Carney PA, Miglioretti DL, Yankaskas BC, et al. "Individual and Combined Effects of Age, Breast Density, and Hormone Replacement Therapy Use on the Accuracy of Screening Mammography." *Annals of Internal Medicine* 2003;138(3):168-175. https://doi.org/10.7326/0003-4819-138-3-200302040-00008
+5. Boyd NF, Guo H, Martin LJ, et al. "Mammographic Density and the Risk and Detection of Breast Cancer." *New England Journal of Medicine* 2007;356(3):227-236. https://doi.org/10.1056/NEJMoa062790
+6. Find It Early Act, H.R.6182, 119th Congress (2025-2026). https://www.congress.gov/bill/119th-congress/house-bill/6182

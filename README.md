@@ -10,17 +10,17 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 
 | # | Title | Topics |
 |---|-------|--------|
-| 01 | [America Rations Lung Cancer Screening With Math Nobody Ever Tested](articles/01-pack-year-lung-screening.md) | Lung cancer, USPSTF, risk models |
-| 02 | [Race-Blind Screening Sounds Fair. It Misses Half of Black Patients' Lung Cancers.](articles/02-racial-math-lung-screening.md) | Lung cancer, health equity |
-| 03 | [The Only Cancer Screening in America That Requires a Confession](articles/03-lung-screening-stigma.md) | Lung cancer, stigma, uptake |
-| 04 | [We Wrote the Playbook That Beat AIDS. Breast Cancer Is Still Waiting for It.](articles/04-breast-cancer-global-survival.md) | Breast cancer, global health |
-| 05 | [Every Excuse for Not Eliminating Cervical Cancer Has Expired](articles/05-cervical-cancer-elimination.md) | Cervical cancer, HPV, elimination |
-| 06 | [Stop Counting Cancer Screenings. Start Counting the Days to Treatment.](articles/06-global-cancer-aid-metrics.md) | Global health, treatment access |
-| 07 | [Young Americans Are Dying of Colon Cancer While Medicine Hunts for the Why](articles/07-young-onset-colorectal-cancer.md) | Colorectal cancer, early-onset |
-| 08 | [One Blood Test at 45 Could End the Prostate Cancer Screening War](articles/08-prostate-psa-baseline.md) | Prostate cancer, PSA |
-| 09 | [We Pay for Cancer Tests. We Refuse to Pay for Answers.](articles/09-positive-test-follow-up.md) | Follow-up, navigation |
-| 10 | [The Mammogram Warning Is Federal. The Answer Costs $1,000.](articles/10-breast-density-follow-up.md) | Breast density, MRI, coverage |
-| 11 | [A $949 Blood Test Promises to Catch 50 Cancers. No One Knows if It Saves a Single Life.](articles/11-mced-galleri-evidence.md) | Multi-cancer early detection |
+| 01 | [A Number on an Intake Form Is Deciding Who Survives Lung Cancer](articles/01-pack-year-lung-screening.md) | Lung cancer, USPSTF, risk models |
+| 02 | [Colorblind Cancer Screening Isn't Fairness. It's How Black Patients Get Missed.](articles/02-racial-math-lung-screening.md) | Lung cancer, health equity |
+| 03 | [Every Cancer Screening Starts With a Birthday. Lung Screening Starts With Shame.](articles/03-lung-screening-stigma.md) | Lung cancer, stigma, uptake |
+| 04 | [200,000 Women a Year Die of a Breast Cancer We Already Know How to Cure](articles/04-breast-cancer-global-survival.md) | Breast cancer, global health |
+| 05 | [One Shot, One Swab, One Visit: The Cancer We Refuse to End](articles/05-cervical-cancer-elimination.md) | Cervical cancer, HPV, elimination |
+| 06 | [A Cancer Test With No Treatment Behind It Isn't Medicine. It's Paperwork.](articles/06-global-cancer-aid-metrics.md) | Global health, treatment access |
+| 07 | [Colon Cancer Is Killing Young Adults. We Keep Studying It Instead of Stopping It.](articles/07-young-onset-colorectal-cancer.md) | Colorectal cancer, early-onset |
+| 08 | [We Stopped Testing for Prostate Cancer. Metastatic Cases Jumped 40 Percent.](articles/08-prostate-psa-baseline.md) | Prostate cancer, PSA |
+| 09 | [A Positive Cancer Test Is an Alarm. Half the Time, No One Answers It.](articles/09-positive-test-follow-up.md) | Follow-up, navigation |
+| 10 | [The Law Guarantees Women a Cancer Warning. Not the Test That Follows It.](articles/10-breast-density-follow-up.md) | Breast density, MRI, coverage |
+| 11 | [Britain Is Testing the 50-Cancer Blood Test. America Is Buying It Blind.](articles/11-mced-galleri-evidence.md) | Multi-cancer early detection |
 
 ---
 
@@ -56,4 +56,4 @@ oped/
     └── ...
 ```
 
-Each article closes with a numbered **A Plea to Policymakers** section naming specific agencies, bills, CPT/HCPCS codes, deadlines, and measurable targets.
+Each article closes with a numbered **A Plea to Policymakers** section naming specific agencies, bills, CPT codes, deadlines, and measurable targets, followed by a **Sources** section citing the peer-reviewed studies, guidelines, and legislation referenced, with DOIs or official URLs.

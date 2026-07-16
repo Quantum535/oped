@@ -1,6 +1,6 @@
 ---
 number: 7
-title: "YOUNG AMERICANS ARE DYING OF COLON CANCER WHILE MEDICINE HUNTS FOR THE WHY"
+title: "Colon Cancer Is Killing Young Adults. We Keep Studying It Instead of Stopping It."
 author: Soneesh Kothagundla
 topics:
   - colorectal cancer
@@ -8,7 +8,7 @@ topics:
   - screening age
 ---
 
-# YOUNG AMERICANS ARE DYING OF COLON CANCER WHILE MEDICINE HUNTS FOR THE WHY
+# Colon Cancer Is Killing Young Adults. We Keep Studying It Instead of Stopping It.
 
 *By Soneesh Kothagundla*
 
@@ -49,3 +49,13 @@ The mystery of young-onset colorectal cancer deserves its researchers, and somed
 3. **Office of the National Coordinator for Health Information Technology:** Require colorectal cancer family history as structured FHIR data that automatically lowers the screening start age when existing USPSTF criteria already say it should (including Lynch syndrome and other high-risk histories). One in four early-onset cases had a qualifying family history that intake forms ignored.
 
 4. **U.S. Preventive Services Task Force:** Issue a separate recommendation on symptomatic evaluation for adults under 45, independent of the age-45 screening guideline. Do not treat young symptomatic patients as a footnote to population screening.
+
+---
+
+## Sources
+
+1. Siegel RL, Giaquinto AN, Jemal A. "Cancer statistics, 2024." *CA: A Cancer Journal for Clinicians* 2024;74(1):12-49. https://doi.org/10.3322/caac.21820
+2. Siegel RL, et al. "Colorectal Cancer Incidence Patterns in the United States, 1974-2013." *JNCI: Journal of the National Cancer Institute* 2017;109(8):djw322. https://doi.org/10.1093/jnci/djw322
+3. US Preventive Services Task Force (Davidson KW, Barry MJ, Mangione CM, et al.). "Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement." *JAMA* 2021;325(19):1965-1977. https://doi.org/10.1001/jama.2021.6238
+4. Gupta S, Bharti B, Ahnen DJ, et al. "Potential impact of family history-based screening guidelines on the detection of early-onset colorectal cancer." *Cancer* 2020;126(13):3013-3020. https://doi.org/10.1002/cncr.32851
+5. National Institute for Health and Care Excellence. "Suspected cancer: recognition and referral." NICE guideline NG12. 2015 (updated 2026). https://www.nice.org.uk/guidance/ng12

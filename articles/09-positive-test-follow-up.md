@@ -1,6 +1,6 @@
 ---
 number: 9
-title: "WE PAY FOR CANCER TESTS. WE REFUSE TO PAY FOR ANSWERS."
+title: "A Positive Cancer Test Is an Alarm. Half the Time, No One Answers It."
 author: Soneesh Kothagundla
 topics:
   - colorectal cancer
@@ -9,7 +9,7 @@ topics:
   - bundled payment
 ---
 
-# WE PAY FOR CANCER TESTS. WE REFUSE TO PAY FOR ANSWERS.
+# A Positive Cancer Test Is an Alarm. Half the Time, No One Answers It.
 
 *By Soneesh Kothagundla*
 
@@ -52,3 +52,12 @@ None of this is beyond a health system that already mails millions of test kits 
 3. **Centers for Medicare and Medicaid Services:** Require patient navigation services (reimbursed since 2024) for every positive stool-based screening result in Medicare Shared Savings Program ACOs and Medicaid managed care contracts. Assign a named navigator within 48 hours of result.
 
 4. **Department of Health and Human Services:** Mandate EHR auto-scheduling of a colonoscopy appointment when a stool test flags positive. Send a Secretary-directed notice to all Medicare Advantage and Medicaid plans reminding them that federal rules eliminated patient cost-sharing on follow-up colonoscopy after a positive screen (private plans 2022, Medicare 2023).
+
+---
+
+## Sources
+
+1. Corley DA, Jensen CD, Quinn VP, et al. "Association Between Time to Colonoscopy After a Positive Fecal Test Result and Risk of Colorectal Cancer and Cancer Stage at Diagnosis." *JAMA* 2017;317(16):1631-1641. https://doi.org/10.1001/jama.2017.3634
+2. Centers for Medicare and Medicaid Services. "Calendar Year (CY) 2024 Medicare Physician Fee Schedule Final Rule." 2023. (Principal Illness Navigation services, effective January 1, 2024.) https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2024-medicare-physician-fee-schedule-final-rule
+3. U.S. Departments of Labor, Health and Human Services, and the Treasury. "FAQs About Affordable Care Act Implementation Part 51." January 10, 2022. https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/aca-part-51.pdf
+4. Centers for Medicare and Medicaid Services. "Calendar Year (CY) 2023 Medicare Physician Fee Schedule Final Rule." 2022. (Cost-sharing for follow-on colonoscopy after a positive stool test eliminated, effective January 1, 2023.) https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2023-medicare-physician-fee-schedule-final-rule

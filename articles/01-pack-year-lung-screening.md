@@ -1,6 +1,6 @@
 ---
 number: 1
-title: "AMERICA RATIONS LUNG CANCER SCREENING WITH MATH NOBODY EVER TESTED"
+title: "A Number on an Intake Form Is Deciding Who Survives Lung Cancer"
 author: Soneesh Kothagundla
 topics:
   - lung cancer
@@ -9,7 +9,7 @@ topics:
   - risk models
 ---
 
-# AMERICA RATIONS LUNG CANCER SCREENING WITH MATH NOBODY EVER TESTED
+# A Number on an Intake Form Is Deciding Who Survives Lung Cancer
 
 *By Soneesh Kothagundla*
 
@@ -23,7 +23,7 @@ That is the scandal hiding inside American lung cancer screening. The low-dose C
 
 Under the current U.S. Preventive Services Task Force guideline, a patient qualifies for an annual low-dose CT scan only by clearing three thresholds at once: age 50 to 80, at least 20 pack-years of smoking, and either still smoking or having quit within the past 15 years. Miss any one number and the test is simply never offered.
 
-This year, researchers finally graded that arithmetic against reality. A study in JNCI: Journal of the National Cancer Institute, led by Melinda Aldrich, followed 52,667 adults with a smoking history for fifteen years and checked ten screening strategies against the 1,689 people who actually went on to develop lung cancer. The fixed rules failed badly. For some groups, sensitivity fell as low as 46 percent. Statistical risk models, which weigh smoking alongside age, family history, and other factors, caught 71 to 73 percent. That is the difference between finding one in two future cancer patients and finding nearly three in four.
+This year, researchers finally graded that arithmetic against reality. A study in JNCI: Journal of the National Cancer Institute, led by Adoma Manful and Melinda Aldrich, followed 52,667 adults with a smoking history for fifteen years and checked ten screening strategies against the 1,689 people who actually went on to develop lung cancer. The fixed rules failed badly. For some groups, sensitivity fell as low as 46 percent. Statistical risk models, which weigh smoking alongside age, family history, and other factors, caught 71 to 73 percent. That is the difference between finding one in two future cancer patients and finding nearly three in four.
 
 The most damning detail is what happened to the newest rule. The American Cancer Society's 2023 guideline update, introduced as an improvement, produced the single largest sensitivity gap of any strategy tested: 18 percentage points. A revision adopted as progress made the problem worse, and nobody would have known if an outside team had not gone back and checked. That is what an unregulated formula looks like in the wild.
 
@@ -49,10 +49,20 @@ The choice in front of policymakers is stark: keep rationing a proven scan with 
 
 ## A Plea to Policymakers
 
-1. **U.S. Preventive Services Task Force:** In the next lung cancer screening update, replace the fixed 20 pack-year and 15-year quit-smoking cutoffs with JNCI-validated statistical risk models (such as those tested by Aldrich et al. against 52,667 adults and 1,689 incident cancers) that achieve at least 71 percent sensitivity. Publish expected sensitivity by race and sex before any rule is finalized.
+1. **U.S. Preventive Services Task Force:** In the next lung cancer screening update, replace the fixed 20 pack-year and 15-year quit-smoking cutoffs with JNCI-validated statistical risk models (such as those tested by Manful, Aldrich, and colleagues against 52,667 adults and 1,689 incident cancers) that achieve at least 71 percent sensitivity. Publish expected sensitivity by race and sex before any rule is finalized.
 
-2. **Centers for Medicare and Medicaid Services:** Amend National Coverage Determination 210.14 so Medicare reimburses low-dose CT (HCPCS G0297) for every patient who meets a USPSTF-endorsed validated model threshold, not only patients who clear the pack-year formula. Tie payment to documented model score in the electronic health record.
+2. **Centers for Medicare and Medicaid Services:** Amend National Coverage Determination 210.14 so Medicare reimburses low-dose CT (CPT 71271) for every patient who meets a USPSTF-endorsed validated model threshold, not only patients who clear the pack-year formula. Tie payment to documented model score in the electronic health record.
 
 3. **U.S. Food and Drug Administration and CMS:** Apply post-market surveillance rules to screening eligibility algorithms the same way they apply to the scanner: require published performance floors, subgroup reporting, and re-testing against real-world outcomes every five years. Recall or suspend any criteria that fall below 60 percent sensitivity in any subgroup.
 
 4. **The Joint Commission and CMS hospital quality programs:** Within 24 months, require accredited cancer centers to report what share of patients with a smoking history their current criteria flag for screening, and compare that rate to the share flagged by validated risk models run on the same EHR data.
+
+---
+
+## Sources
+
+1. Manful A, Mercaldo S, Blume JD, Aldrich MC. "Addressing algorithmic bias in lung cancer screening eligibility." *JNCI: Journal of the National Cancer Institute* 2026;118(2):343-353. https://doi.org/10.1093/jnci/djaf298
+2. Wolf AMD, Oeffinger KC, Shih TY-C, et al. "Screening for lung cancer: 2023 guideline update from the American Cancer Society." *CA: A Cancer Journal for Clinicians* 2024;74(1):50-81. https://doi.org/10.3322/caac.21811
+3. US Preventive Services Task Force. "Screening for Lung Cancer: US Preventive Services Task Force Recommendation Statement." *JAMA* 2021;325(10):962-970. https://doi.org/10.1001/jama.2021.1117
+4. Centers for Medicare and Medicaid Services. "National Coverage Determination (NCD) 210.14: Lung Cancer Screening with Low Dose Computed Tomography (LDCT)." Effective February 10, 2022. https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=364
+5. National Lung Screening Trial Research Team. "Reduced Lung-Cancer Mortality with Low-Dose Computed Tomographic Screening." *New England Journal of Medicine* 2011;365(5):395-409. https://doi.org/10.1056/NEJMoa1102873
