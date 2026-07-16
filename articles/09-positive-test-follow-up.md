@@ -1,6 +1,6 @@
 ---
 number: 9
-title: "WE PAY FOR CANCER TESTS. WE SHOULD PAY FOR ANSWERS."
+title: "WE PAY FOR CANCER TESTS. WE REFUSE TO PAY FOR ANSWERS."
 author: Soneesh Kothagundla
 topics:
   - colorectal cancer
@@ -9,51 +9,43 @@ topics:
   - bundled payment
 ---
 
-# WE PAY FOR CANCER TESTS. WE SHOULD PAY FOR ANSWERS.
+# WE PAY FOR CANCER TESTS. WE REFUSE TO PAY FOR ANSWERS.
 
 *By Soneesh Kothagundla*
 
 ---
 
-The Centers for Medicare and Medicaid Services and private insurers pay for colorectal cancer screening tests but not for the colonoscopy that gives a positive result its meaning. In many health systems, barely half of patients with a positive stool test receive follow-up within a year.
+A positive stool test is not a diagnosis. It is an alarm: there may be a cancer here, look now. In American health care, the alarm rings into an empty room. In many health systems, barely half of patients who test positive on a stool-based colorectal cancer test receive the follow-up colonoscopy within a year. We have built a screening enterprise that pays reliably for the question and shrugs at the answer.
 
-The solution is straightforward. A positive stool test is an alarm, not a diagnosis. Yet most American health systems pay for the test and not for the answer. The result is predictable: In many health systems, barely half of patients who test positive on a stool-based colorectal cancer test receive the follow-up colonoscopy within a year.
+The cost of that shrug has been measured. A 2017 JAMA study followed more than 70,000 Kaiser Permanente patients with positive stool tests. Those whose colonoscopy came more than twelve months after the result had more than twice the odds of colorectal cancer at diagnosis, and more than three times the odds of advanced-stage disease, compared with patients scoped within a month. Delay is not an administrative inconvenience. Delay is the mechanism by which a curable finding matures into an incurable one.
 
-Problem magnitude
+**Blame the ledger, not the patient**
 
-Colorectal cancer screening only saves lives when the full pathway closes. A positive stool test says there may be a cancer here, look now. In roughly half of cases, the alarm rings into an empty room.
+The reflex is to file unfinished follow-up under patient noncompliance. It is the wrong ledger. Completion rates vary enormously from one health system to the next, and patients do not change character at the county line. When the same test produces closed loops in one system and dead ends in another, the system is the variable.
 
-Research demonstrates the cost of that silence. A 2017 JAMA study followed more than 70,000 Kaiser Permanente patients with positive stool tests. Those whose colonoscopy came more than twelve months after the result had more than twice the odds of colorectal cancer at diagnosis, and more than three times the odds of advanced-stage disease, compared with patients scoped within a month. Delay is the mechanism by which a curable finding matures into an incurable one.
+Look at how the money moves and the variation explains itself. America finances screening as a fragment, not a pathway. A mailed stool kit counts toward a system's screening rate the moment it is returned: full credit, payment complete, even if the positive result dies in an electronic inbox. The colonoscopy that gives the test its meaning is a separate referral, a separate authorization, a separate bill, and somebody else's problem. Every incentive in the sequence rewards starting the process. None rewards finishing it.
 
-The financing flaw
+The burden of unfinished pathways is not distributed evenly. Abnormal mammograms show the same unresolved-result clustering in safety-net populations. Wherever screening is delivered as a test rather than a pathway, loop-closing defaults to whoever has the phone minutes, the transportation, and the insurance literacy to chase it. A test has never saved anyone's life. The pathway does.
 
-The reflex is to file this under patient noncompliance. It is the wrong ledger. Completion rates vary enormously from one health system to the next, which is itself proof that the system, not the patient, is the variable.
+**Pay for the episode, not the fragment**
 
-America finances screening as a fragment, not a pathway. A mailed stool kit counts toward a system's screening rate the moment it is returned: full credit, payment complete, even if the positive result dies in an electronic inbox. The colonoscopy that gives the test its meaning is a separate referral, a separate authorization, a separate bill, and somebody else's problem. Every incentive in the sequence rewards starting the process. None rewards finishing it.
+The fixes are neither novel nor speculative. Medicare already thinks in episodes for surgery. A positive stool test and its follow-up colonoscopy are one screening event and should be one bundled payment, with a meaningful share of the money contingent on the loop actually closing.
 
-The equity issue requires particular attention
+Navigation works and is already reimbursable. Randomized trials have repeatedly shown that a person assigned to shepherd patients from positive result to completed scope raises completion substantially, and Medicare began paying for patient navigation services in 2024. A portal notification is not navigation. A named human with a deadline is.
 
-Abnormal mammograms show the same unresolved-result clustering in safety-net populations. Wherever screening is delivered as a test rather than a pathway, loop-closing defaults to whoever has the phone minutes, transportation, and insurance literacy to chase it. The test has never saved anyone's life. The pathway does.
+And the last barrier is pure information failure: many patients still believe the follow-up colonoscopy will cost them hundreds of dollars. It will not. Federal rules eliminated cost-sharing on post-positive colonoscopies for private plans in 2022 and for Medicare in 2023. The system just never got around to telling the patients.
 
-Addressing reasonable concerns
+**Close the loop or stop taking credit**
 
-Some people question whether patients simply refuse follow-up. Research shows the opposite: Completion rates vary by health system, which means the design of the pathway, not patient motivation, is the variable.
+Create a national quality metric for follow-up colonoscopy within 90 days of a positive stool test, publicly reported and tied to Medicare star ratings. Bundle the payment. Fund the navigators. Auto-book the colonoscopy the moment the result comes back positive, and tell every patient, in the same message, that it is free.
 
-Another concern is that bundled payment is too complex to implement. The solution is simple: Medicare already thinks this way about surgical episodes. A positive stool test and its colonoscopy are one screening event and should be one bundled payment, with the full amount contingent on the loop closing.
-
-A third counterargument points to portal notifications as sufficient outreach. However, only a person assigned to shepherd patients from positive result to completed scope raises completion substantially. Randomized trials have repeatedly shown that navigation works, and Medicare began reimbursing patient navigation services in 2024.
-
-The path forward
-
-Create a national quality metric for follow-up colonoscopy within 90 days of a positive stool test, publicly reported and tied to Medicare star ratings. Bundle payment around the full screening episode. Fund navigators. Auto-book the colonoscopy when the result is positive, and tell patients the follow-up is free: federal rules eliminated cost-sharing on post-positive colonoscopies for private plans in 2022 and Medicare in 2023.
-
-The central question for policymakers is whether we can afford to keep paying for tests while answers go unfunded. The case is clear and compelling: The science, the economics, and the equity considerations all support action. Every insurer and CMS administrator should recognize closed-loop screening as a critical investment in saving lives, not posting rates.
+None of this is beyond a health system that already mails millions of test kits a year. It only requires admitting what the current numbers actually measure. A screening rate is a press release. A closed loop is a life. Policymakers should stop paying for the first and start paying for the second.
 
 ---
 
 ## A Plea to Policymakers
 
-1. **Centers for Medicare and Medicaid Services:** Create a new HEDIS and Medicare Star Ratings measure: "follow-up colonoscopy completed within 90 days of positive FIT, FOBT, or stool DNA test." Weight it in Star Ratings beginning 2027. Publicly report the rate by health system; the 2017 JAMA Kaiser study showed delay beyond 12 months more than doubles odds of invasive disease.
+1. **Centers for Medicare and Medicaid Services:** Create a new HEDIS and Medicare Star Ratings measure: "follow-up colonoscopy completed within 90 days of positive FIT, FOBT, or stool DNA test." Weight it in Star Ratings beginning 2027. Publicly report the rate by health system; the 2017 JAMA Kaiser study showed delay beyond 12 months more than doubles the odds of invasive disease.
 
 2. **Centers for Medicare and Medicaid Services:** Bundle CPT 82270, 81528, or 81479 with diagnostic colonoscopy (CPT 45378) into a single episode payment. Withhold 40 percent of the bundle until the colonoscopy is completed within 90 days of the positive result.
 

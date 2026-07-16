@@ -1,6 +1,6 @@
 ---
 number: 7
-title: "YOUNG ADULTS ARE DYING OF COLON CANCER WHILE WE HUNT FOR THE WHY"
+title: "YOUNG AMERICANS ARE DYING OF COLON CANCER WHILE MEDICINE HUNTS FOR THE WHY"
 author: Soneesh Kothagundla
 topics:
   - colorectal cancer
@@ -8,43 +8,35 @@ topics:
   - screening age
 ---
 
-# YOUNG ADULTS ARE DYING OF COLON CANCER WHILE WE HUNT FOR THE WHY
+# YOUNG AMERICANS ARE DYING OF COLON CANCER WHILE MEDICINE HUNTS FOR THE WHY
 
 *By Soneesh Kothagundla*
 
 ---
 
-Federal screening policy lowered the colorectal cancer start age to 45 in 2021, but delivery policy never followed. Young adults with red-flag symptoms still wait months for a diagnosis because payers and health systems have no mandatory clock for symptomatic workup.
+Colorectal cancer is now the leading cause of cancer death among American men younger than 50, and the second-leading cause among women that age, behind only breast cancer. In the late 1990s it ranked fourth for both. Americans born around 1990 carry twice the colon cancer risk and four times the rectal cancer risk that Americans born around 1950 carried at the same age. The American Cancer Society's annual statistics have tracked the climb for years: one to two percent annually, three decades running.
 
-The solution is straightforward. Colorectal cancer in young adults is rising, and three process failures are killing patients while researchers hunt for the cause. Yet the national conversation has settled on a single fascinated question: why? The result is predictable: Americans born around 1990 carry twice the colon cancer risk and four times the rectal cancer risk that Americans born around 1950 carried at the same age, and most of those deaths are still preventable today.
+The national conversation about this has settled into a single fascinated question: why? Diet, obesity, antibiotics, the microbiome, some unidentified exposure, all under investigation, none proven. It is a genuinely important mystery. It is also, for the patients being diagnosed this year, almost beside the point. We screened for cervical cancer for half a century before anyone identified the virus that causes it. Etiology is not a prerequisite for detection. And while the field hunts for the why, three process failures that require no scientific discovery whatsoever are killing people right now.
 
-Problem magnitude
+**Failure one: an eligibility age that never became a screening age**
 
-Colorectal cancer is now the leading cause of cancer death among American men younger than 50, and the second-leading cause among women that age, behind only breast cancer. In the late 1990s it ranked fourth for both. The American Cancer Society's annual statistics have tracked the climb for years, one to two percent annually, three decades running.
+The one policy response America did make is quietly failing on delivery. The U.S. Preventive Services Task Force lowered the screening start age from 50 to 45 in 2021. That was the right call. But federal survey data show only about a third of 45-to-49-year-olds are up to date, versus roughly 70 percent of older adults. Eligibility is not screening. The best-performing systems already treat the 50th birthday as a trigger: a default order, a stool test in the mail. The 45th birthday deserves the same machinery, with uptake in the 45-to-49 bracket published as its own accountability metric instead of vanishing into an average.
 
-The national conversation about this has settled into a single fascinated question: why? Diet, obesity, antibiotics, the microbiome, and some unidentified exposure are all under investigation. None is proven. It is a genuinely important mystery. It is also, for the patients being diagnosed this year, almost beside the point. We screened for cervical cancer for half a century before anyone identified the virus that causes it. Etiology is not a prerequisite for detection.
+**Failure two: no clock for the symptomatic**
 
-Three failures that need no discovery
+Then there are the patients too young for any screening at all, for whom the failure is crueler. Studies of early-onset patients document the same story on repeat: months between first symptom and diagnosis, because rectal bleeding, iron-deficiency anemia, or a persistent change in bowel habits in a 34-year-old gets attributed to hemorrhoids or stress until it cannot be. And the delay is not because young patients exaggerate; the documented pattern is the opposite. Clinicians underreact to red-flag symptoms in young adults because colorectal cancer is still filed as an older person's disease.
 
-The first failure is that the one policy response we did make is quietly failing on delivery. The U.S. Preventive Services Task Force lowered the screening start age from 50 to 45 in 2021. That was the right call. But federal survey data show only about a third of 45-to-49-year-olds are up to date, versus roughly 70 percent of older adults. Eligibility is not screening.
+England has a structural answer the United States entirely lacks: a national clock. A British patient with red-flag symptoms is entitled to an urgent referral and a diagnostic answer within weeks, and the health service is publicly graded on hitting the deadline. American medicine has no clock. A symptomatic young American's path to a colonoscopy depends on how insistent they are willing to be, which is no path at all.
 
-The second failure is what happens to people too young for any screening at all. Studies of early-onset patients document the same story on repeat: months between first symptom and diagnosis, because rectal bleeding, iron-deficiency anemia, or a persistent change in bowel habits in a young adult gets attributed to hemorrhoids or stress until it cannot be. England has a structural answer the United States entirely lacks: a national clock. A British patient with red-flag symptoms is entitled to an urgent referral and a diagnostic answer within weeks, and the health service is publicly graded on hitting the deadline. American medicine has no clock.
+**Failure three: the intake form nobody reads**
 
-The third failure is the cheapest of all. By some published estimates, as many as one in four early-onset colorectal cancer patients had a family history that already qualified them for screening before 45 under existing guidelines. Those cancers were not missed by science. They were missed by an intake form nobody acted on.
+The cheapest failure of all: by some published estimates, as many as one in four early-onset colorectal cancer patients had a family history that already qualified them for screening before 45 under existing guidelines. Those cancers were not missed by science. They were missed by an intake form nobody acted on. The fix is not a research grant. It is wiring family history into the record as structured data that automatically triggers the earlier screening the guidelines already prescribe.
 
-Addressing reasonable concerns
+**The how is available now. The why can catch up.**
 
-Some people question whether lowering the screening age is enough. The solution is simple: Make 45 a trigger, not a suggestion. A mailed stool test and a default order generated by the birthday, the way the best-performing systems already run screening at 50, with uptake in the 45-to-49 bracket published as its own accountability metric.
+None of this requires waiting for a microbiome answer. A birthday that mails a test. A clock that guarantees a symptomatic patient a scope within a fixed number of weeks, measured and publicly reported. An intake form that actually fires. Payers and health systems could adopt all three this year.
 
-Another concern is that young patients exaggerate symptoms. Research demonstrates the opposite pattern: clinicians underreact to red-flag symptoms in young adults because colorectal cancer is still treated as an older person's disease.
-
-A third counterargument points to waiting for the cause before changing policy. However, only process fixes are available now, and they do not require a microbiome answer. A birthday that mails a test, a clock that guarantees a symptomatic patient a scope, and an intake form that actually fires are all available today.
-
-The path forward
-
-Payers and health systems should adopt a red-flag guarantee: defined symptoms, any age, a scheduled scope inside a fixed number of weeks, measured and reported. Family history should be collected as structured data and wired to trigger earlier screening automatically.
-
-The central question for policymakers is whether we can afford to keep researching the why while the how goes unfixed. The case is clear and compelling: The epidemiology, the delivery failures, and the English precedent all support action. Every insurer and health system should recognize young-onset colorectal cancer as a critical investment in finding disease before the birthday-based system even applies.
+The mystery of young-onset colorectal cancer deserves its researchers, and someday they will name the cause. The patients being diagnosed this year deserve something faster: a system that does not wait for the answer to act on what it already knows.
 
 ---
 

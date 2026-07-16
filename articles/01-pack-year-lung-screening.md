@@ -1,6 +1,6 @@
-﻿---
+---
 number: 1
-title: "THE UNREGULATED FORMULA THAT DECIDES WHO GETS SCREENED FOR LUNG CANCER"
+title: "AMERICA RATIONS LUNG CANCER SCREENING WITH MATH NOBODY EVER TESTED"
 author: Soneesh Kothagundla
 topics:
   - lung cancer
@@ -9,43 +9,41 @@ topics:
   - risk models
 ---
 
-# THE UNREGULATED FORMULA THAT DECIDES WHO GETS SCREENED FOR LUNG CANCER
+# AMERICA RATIONS LUNG CANCER SCREENING WITH MATH NOBODY EVER TESTED
 
 *By Soneesh Kothagundla*
 
 ---
 
-The U.S. Preventive Services Task Force and the Centers for Medicare and Medicaid Services regulate the lung cancer scanner but not the formula that decides who may use it. A patient who falls one pack-year short of the cutoff can be denied a scan and later diagnosed at stage IV with a cancer the technology might have caught at stage I.
+Somewhere in America this week, a patient will be turned away from a lung cancer scan because of arithmetic. Not because the scan is unproven, and not because the patient is healthy, but because a formula on an intake form says a lifetime of smoking fell one pack-year short of mattering. If that patient walks into an emergency room two years from now with stage IV disease, no incident report will be filed, because the system will have worked exactly as designed.
 
-The solution is straightforward. Validated risk models already identify high-risk patients more accurately than fixed pack-year rules. Yet Medicare and most hospitals still use the older formula because no federal rule requires them to adopt anything better. The result is predictable: Patients who will develop lung cancer continue to be filtered out of screening even though the technology to find it early already exists.
+That is the scandal hiding inside American lung cancer screening. The low-dose CT scanner that finds early tumors is one of the most closely regulated machines in medicine: tested, cleared, and monitored by the federal government for its performance. The formula that decides who may lie down inside it is regulated by no one. Lung cancer remains the leading cancer killer in the United States not because we lack the technology to catch it early, but because we ration that technology with math nobody ever validated.
 
-Problem magnitude
+**A rule that fails half the people it exists to find**
 
-Lung cancer remains the leading cause of cancer death in the United States. Under the current U.S. Preventive Services Task Force guideline, patients qualify for an annual low-dose CT scan only if they are 50 to 80 years old, have smoked at least 20 pack-years, and either still smoke or quit within the last 15 years. Miss any one threshold and the test simply is not offered.
+Under the current U.S. Preventive Services Task Force guideline, a patient qualifies for an annual low-dose CT scan only by clearing three thresholds at once: age 50 to 80, at least 20 pack-years of smoking, and either still smoking or having quit within the past 15 years. Miss any one number and the test is simply never offered.
 
-Research published this year in JNCI: Journal of the National Cancer Institute tested that rule against reality. A study led by Melinda Aldrich followed 52,667 adults with a smoking history for fifteen years and compared ten screening strategies against the 1,689 people eventually diagnosed with lung cancer. The fixed rules performed poorly. Sensitivity ran as low as 46 percent for some groups, compared with 71 to 73 percent for statistical risk models that weigh smoking alongside age, family history, and other factors. That is the difference between catching one in two future patients and catching nearly three in four.
+This year, researchers finally graded that arithmetic against reality. A study in JNCI: Journal of the National Cancer Institute, led by Melinda Aldrich, followed 52,667 adults with a smoking history for fifteen years and checked ten screening strategies against the 1,689 people who actually went on to develop lung cancer. The fixed rules failed badly. For some groups, sensitivity fell as low as 46 percent. Statistical risk models, which weigh smoking alongside age, family history, and other factors, caught 71 to 73 percent. That is the difference between finding one in two future cancer patients and finding nearly three in four.
 
-Most importantly, the American Cancer Society's 2023 update, introduced as an improvement, produced the single largest sensitivity gap of any strategy tested: 18 percentage points. A revision adopted as progress made the measurement problem worse, and nobody would have known if an outside team had not gone back and checked.
+The most damning detail is what happened to the newest rule. The American Cancer Society's 2023 guideline update, introduced as an improvement, produced the single largest sensitivity gap of any strategy tested: 18 percentage points. A revision adopted as progress made the problem worse, and nobody would have known if an outside team had not gone back and checked. That is what an unregulated formula looks like in the wild.
 
-The regulatory gap
+**The double standard at the heart of screening**
 
-The low-dose CT scanner is a federally regulated medical device, tested, cleared, and monitored for performance. The formula that decides who may use it is regulated by no one. "Pack-years," the eligibility number at the center of every lung cancer screening guideline in the country, was adopted because it was easy to write on an intake form. Whether it actually identifies the people who go on to get sick was, until this year, a question nobody had rigorously answered.
+Consider how we treat every other component of this program. A scanner that missed half the tumors in front of it would be recalled. A drug that failed half its intended patients would be pulled from the market or relabeled. But eligibility criteria, which are algorithms applied to millions of people a year, operate with no required performance floor, no subgroup reporting, no post-market surveillance, and no recall mechanism when they fail. "Pack-years" became the national gatekeeper because it was easy to write on an intake form, not because anyone proved it identifies the people who get sick. We regulate the machine meticulously and run the math that rations it on the honor system.
 
-Now consider what would happen if any other component of this screening program performed that way. A scanner that missed half the tumors in front of it would be recalled. A drug that failed half its intended patients would be pulled or relabeled. Eligibility criteria live in a regulatory void: They are algorithms applied to millions of people, with no required performance floor, no subgroup reporting, no post-market surveillance, and no recall mechanism when they fail. We regulate the machine meticulously and leave the math that rations access to it on the honor system.
+**The objections do not survive contact with the evidence**
 
-Addressing reasonable concerns
+Are risk models ready for national use? The models in the JNCI analysis were validated against fifteen years of real-world diagnoses. They are published, available, and outperforming the status quo today. Limiting coverage to outcome-validated models answers the concern completely.
 
-Some people question whether risk models are ready for national adoption. The solution is simple: Coverage should be limited to models already validated against long-term outcomes. The JNCI analysis tested models against fifteen years of real diagnoses. They are published, available, and outperforming the status quo.
+Can hospitals implement them? The inputs, meaning age, smoking history, and family history, already sit in every electronic health record. Computing a risk score is a software update, not a construction project.
 
-Another concern is that hospitals cannot implement new criteria quickly. Research shows the opposite: The inputs to a risk model, age, smoking history, and family history, already sit in the electronic health record. Computing a score is a software update, and nothing prevents a health system from flagging high-risk patients its own data can identify today.
+Should health systems wait for Washington? The patients filtered out this year cannot wait for the next guideline cycle. Nothing prevents a health system from flagging, today, the high-risk patients its own data can already identify.
 
-A third counterargument points to waiting for federal guidance before acting. However, only a single national guideline will not fix patients screened this year. Health systems that wait for Washington leave curable cancers undetected while the evidence for better criteria already exists.
+**Put the formula on an audit clock**
 
-The path forward
+The Task Force should replace fixed cutoffs with validated risk-prediction models, and Medicare's coverage rules should follow so that model-eligible patients are reimbursable. Then screening criteria should go on a permanent audit clock: no eligibility rule adopted without published expected performance, including sensitivity by subgroup, and mandatory re-testing against real-world outcomes on a fixed schedule. This is not a radical demand. It is the post-market surveillance we already require of the scanner, extended to the formula that feeds it.
 
-The U.S. Preventive Services Task Force should replace fixed cutoffs with validated risk-prediction models, and Medicare's coverage rules should follow so that model-eligible patients are reimbursable. Screening criteria should go on an audit clock: No eligibility rule should be adopted without published expected performance, including sensitivity by subgroup, and mandatory re-testing against real-world outcomes on a fixed schedule. That is nothing more than the post-market surveillance we already demand of the scanner, applied to the formula that feeds it.
-
-The central question for policymakers is whether we can afford to keep rationing a proven scan with an unvalidated formula. The case is clear and compelling: The science, the regulatory logic, and the patient safety considerations all support action. Every guideline body and Medicare administrator should recognize validated risk models as a critical investment in finding lung cancer while it is still treatable.
+The choice in front of policymakers is stark: keep rationing a proven scan with unproven math, or hold the gatekeeping formula to the same standard as the gate. A screening program is only as good as its front door.
 
 ---
 

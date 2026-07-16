@@ -10,17 +10,17 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 
 | # | Title | Topics |
 |---|-------|--------|
-| 01 | [The Pack-Year Is Killing People](articles/01-pack-year-lung-screening.md) | Lung cancer, USPSTF, risk models |
-| 02 | [The Racial Math Problem in Lung Screening](articles/02-racial-math-lung-screening.md) | Lung cancer, health equity |
-| 03 | [We Screen the Cancers We Don't Blame Patients For](articles/03-lung-screening-stigma.md) | Lung cancer, stigma, uptake |
-| 04 | [The Survival Gap Is a Map of National Income](articles/04-breast-cancer-global-survival.md) | Breast cancer, global health |
-| 05 | [We Know How to Eliminate Cervical Cancer](articles/05-cervical-cancer-elimination.md) | Cervical cancer, HPV, elimination |
-| 06 | [The Cancers That Only Kill You If You're Poor](articles/06-global-cancer-aid-metrics.md) | Global health, treatment access |
-| 07 | [The Cancer That's Getting Younger](articles/07-young-onset-colorectal-cancer.md) | Colorectal cancer, early-onset |
-| 08 | [We Stopped Looking for Prostate Cancer](articles/08-prostate-psa-baseline.md) | Prostate cancer, PSA |
-| 09 | [The Positive Test That Goes Nowhere](articles/09-positive-test-follow-up.md) | Follow-up, navigation |
-| 10 | [The Warning Without a Next Step](articles/10-breast-density-follow-up.md) | Breast density, MRI, coverage |
-| 11 | [The Blood Test That Promises Everything](articles/11-mced-galleri-evidence.md) | Multi-cancer early detection |
+| 01 | [America Rations Lung Cancer Screening With Math Nobody Ever Tested](articles/01-pack-year-lung-screening.md) | Lung cancer, USPSTF, risk models |
+| 02 | [Race-Blind Screening Sounds Fair. It Misses Half of Black Patients' Lung Cancers.](articles/02-racial-math-lung-screening.md) | Lung cancer, health equity |
+| 03 | [The Only Cancer Screening in America That Requires a Confession](articles/03-lung-screening-stigma.md) | Lung cancer, stigma, uptake |
+| 04 | [We Wrote the Playbook That Beat AIDS. Breast Cancer Is Still Waiting for It.](articles/04-breast-cancer-global-survival.md) | Breast cancer, global health |
+| 05 | [Every Excuse for Not Eliminating Cervical Cancer Has Expired](articles/05-cervical-cancer-elimination.md) | Cervical cancer, HPV, elimination |
+| 06 | [Stop Counting Cancer Screenings. Start Counting the Days to Treatment.](articles/06-global-cancer-aid-metrics.md) | Global health, treatment access |
+| 07 | [Young Americans Are Dying of Colon Cancer While Medicine Hunts for the Why](articles/07-young-onset-colorectal-cancer.md) | Colorectal cancer, early-onset |
+| 08 | [One Blood Test at 45 Could End the Prostate Cancer Screening War](articles/08-prostate-psa-baseline.md) | Prostate cancer, PSA |
+| 09 | [We Pay for Cancer Tests. We Refuse to Pay for Answers.](articles/09-positive-test-follow-up.md) | Follow-up, navigation |
+| 10 | [The Mammogram Warning Is Federal. The Answer Costs $1,000.](articles/10-breast-density-follow-up.md) | Breast density, MRI, coverage |
+| 11 | [A $949 Blood Test Promises to Catch 50 Cancers. No One Knows if It Saves a Single Life.](articles/11-mced-galleri-evidence.md) | Multi-cancer early detection |
 
 ---
 

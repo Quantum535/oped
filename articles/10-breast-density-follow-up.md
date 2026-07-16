@@ -15,41 +15,35 @@ topics:
 
 ---
 
-Federal policy now requires every mammography report to disclose breast density, but Congress and insurers have not required coverage for the supplemental imaging that disclosure implies. The warning is universal. The answer remains means-tested.
+Since September 2024, every mammography report in the United States has been federally required to tell a woman whether her breast tissue is dense. Nearly half of women over 40 will receive that notice. What happens next is not federally required at all. For most of them, the supplemental imaging the warning points toward is an out-of-pocket bill that can run $1,000 or more. The warning is universal. The answer is means-tested.
 
-The solution is straightforward. Every mammography report in the country now tells women whether their breast tissue is dense. Yet most insurers still do not cover the supplemental imaging that dense tissue requires. The result is predictable: The notification is federally guaranteed, and the answer is means-tested.
+**The same finding that hides the cancer predicts it**
 
-Problem magnitude
+Dense breast tissue creates two problems at once, and they compound. It hides cancer: mammography's sensitivity falls from near 87 percent in mostly fatty tissue to roughly 60 percent in extremely dense tissue, because dense tissue and tumors both appear white on the image. Radiologists call it looking for a snowball in a snowstorm. And density is itself a risk factor: women with extremely dense tissue carry up to about four times the breast cancer risk of women with mostly fatty tissue. The same finding that makes the test likelier to miss a cancer makes the cancer likelier to exist.
 
-In September 2024, every mammography report in the country became federally required to tell a woman whether her breast tissue is dense. Nearly half of women over 40 will receive that notice.
+The remedy is not hypothetical. The DENSE trial, a randomized study published in the New England Journal of Medicine in 2019, offered supplemental MRI to women with extremely dense tissue and normal mammograms. Interval cancers, the ones that surface as a lump between screening rounds, fell by half, from 5.0 to 2.5 per 1,000 screens. That is the difference between a screening system that warns women and one that protects them.
 
-Dense tissue creates two problems at once. It hides cancer. Mammography's sensitivity falls from near 87 percent in mostly fatty tissue to roughly 60 percent in extremely dense tissue, because dense tissue and tumors both appear white on the image. Radiologists call it looking for a snowball in a snowstorm. And density is itself a risk factor: women with extremely dense tissue carry up to about four times the breast cancer risk of women with mostly fatty tissue. The same finding that makes the test likelier to miss a cancer makes the cancer likelier to exist.
+**Washington adopted the half that was free**
 
-What the evidence already shows
+The federal notification rule was never medicine's idea. It was a patient's. Nancy Cappello, a Connecticut woman diagnosed with stage 3 breast cancer weeks after a normal mammogram, learned only afterward that dense tissue could hide a tumor, and that her doctors knew. Her movement won Connecticut's first-in-the-nation notification law in 2009 and reached 38 states before the FDA federalized the requirement.
 
-The DENSE trial, a randomized study published in the New England Journal of Medicine in 2019, offered supplemental MRI to women with extremely dense tissue and normal mammograms. Interval cancers, the ones that surface as a lump between screening rounds, fell by half, from 5.0 to 2.5 per 1,000 screens. This represents a real difference between a screening system that warns women and one that protects them.
+But the movement always had two demands: tell women, and cover the follow-up. Washington adopted the half that was free. The result is a policy that performs candor while outsourcing the consequence to the patient's credit limit. Mandating the warning while leaving the response to disposable income is not a screening policy. It is a disclosure regime wearing the costume of one.
 
-The patient movement that changed federal law
+**The objections have already been answered**
 
-The rule was never medicine's idea. It was a patient's. Nancy Cappello, a Connecticut woman diagnosed with stage 3 breast cancer weeks after a normal mammogram, learned only afterward that dense tissue could hide a tumor, and that her doctors knew. Her movement won Connecticut's first-in-the-nation notification law in 2009 and reached 38 states before the FDA federalized it. But the movement always had two demands: tell women, and cover the follow-up. Washington adopted the half that was free.
+Too expensive? Insurers are pricing the wrong test. Abbreviated breast MRI, a stripped-down protocol that takes roughly ten minutes of scanner time instead of forty, detected substantially more invasive cancers than 3D mammography in dense breasts in a major trial published in JAMA, at a fraction of a full MRI's cost.
 
-National momentum and remaining gaps
+No randomized mortality trial? The federal government has already adjudicated the question that matters: it decided density information is important enough to mandate into every mammography report in America. A government that considers a risk serious enough to warn 40 million women about cannot simultaneously consider it too unproven to address.
 
-Congress has the vehicle already drafted. The Find It Early Act, pending in the House, would require insurers to cover supplemental and diagnostic breast imaging without cost-sharing. States need not wait for Washington. The handful that already mandate no-cost supplemental imaging have written the model legislation. Despite this progress, significant gaps remain. Most private plans still leave dense-breast follow-up to a patient's credit limit.
+Too many patients to cover at once? Then phase it. Start with the roughly one in ten women with extremely dense tissue, the DENSE trial's own population, where the evidence is strongest, and expand as the data accumulates.
 
-Addressing reasonable concerns
+**Finish what the notification started**
 
-Some people question whether supplemental MRI is too expensive to cover. The solution is simple: Insurers are pricing the wrong test. Abbreviated breast MRI, a stripped-down protocol that takes roughly ten minutes of scanner time instead of forty, detected substantially more invasive cancers than 3D mammography in dense breasts in a major trial published in JAMA, at a fraction of a full MRI's cost.
+Congress has the vehicle already drafted. The Find It Early Act, pending in the House, would require insurers to cover supplemental and diagnostic breast imaging without cost-sharing. States need not wait: the handful that already mandate no-cost supplemental imaging have written the model legislation, and 38 statehouses have proven this issue can pass.
 
-Another concern is that mortality benefit has not been proven in a randomized trial. Research demonstrates that the federal government has already adjudicated the question that matters: it decided density information is important enough to mandate into every mammography report in America. Mandating the warning while leaving the response to disposable income is not a screening policy. It is a disclosure regime wearing the costume of one.
+Pass the act. Cover validated supplemental imaging, beginning with the women at highest risk. And rewrite the federally mandated notice so it names a next step instead of leaving a woman alone with a warning.
 
-A third counterargument points to covering all dense-breast patients at once. However, only a phased rollout is necessary. Start with the roughly one in ten women with extremely dense tissue, the DENSE trial's own population, where the evidence is strongest, then expand as data accumulates.
-
-The path forward
-
-Congress should pass the Find It Early Act. Insurers should cover clinically validated supplemental imaging without cost-sharing, beginning with women at highest risk. States that have not yet acted should adopt the model legislation already working elsewhere.
-
-The central question for policymakers is whether we can afford to keep warning women about a risk we will not pay to address. The case is clear and compelling: The science, the patient advocacy record, and the coverage gap all support action. Every legislature and insurer should recognize dense-breast follow-up as a critical investment in finding cancer the first mammogram missed.
+A warning that arrives without a covered next step is not prevention. It is liability management. American women were promised the first and are being billed for the second, and Congress has had the fix drafted all along.
 
 ---
 
