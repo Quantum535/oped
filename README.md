@@ -13,7 +13,7 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 | 01 | [A Number on an Intake Form Is Deciding Who Survives Lung Cancer](articles/01-pack-year-lung-screening.md) | Lung cancer, USPSTF, risk models |
 | 02 | [Colorblind Cancer Screening Isn't Fairness. It's How Black Patients Get Missed.](articles/02-racial-math-lung-screening.md) | Lung cancer, health equity |
 | 03 | [Every Cancer Screening Starts With a Birthday. Lung Screening Starts With Shame.](articles/03-lung-screening-stigma.md) | Lung cancer, stigma, uptake |
-| 04 | [200,000 Women a Year Die of a Breast Cancer We Already Know How to Cure](articles/04-breast-cancer-global-survival.md) | Breast cancer, global health |
+| 04 | [Closing the Global Breast Cancer Survival Gap](articles/04-breast-cancer-global-survival.md) | Breast cancer, global health |
 | 05 | [One Shot, One Swab, One Visit: The Cancer We Refuse to End](articles/05-cervical-cancer-elimination.md) | Cervical cancer, HPV, elimination |
 | 06 | [A Cancer Test With No Treatment Behind It Isn't Medicine. It's Paperwork.](articles/06-global-cancer-aid-metrics.md) | Global health, treatment access |
 | 07 | [Colon Cancer Is Killing Young Adults. We Keep Studying It Instead of Stopping It.](articles/07-young-onset-colorectal-cancer.md) | Colorectal cancer, early-onset |

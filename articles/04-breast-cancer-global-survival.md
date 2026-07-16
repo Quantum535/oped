@@ -1,6 +1,6 @@
 ---
 number: 4
-title: "200,000 Women a Year Die of a Breast Cancer We Already Know How to Cure"
+title: "Closing the Global Breast Cancer Survival Gap"
 author: Soneesh Kothagundla
 topics:
   - breast cancer
@@ -9,13 +9,13 @@ topics:
   - survival gap
 ---
 
-# 200,000 Women a Year Die of a Breast Cancer We Already Know How to Cure
+# Closing the Global Breast Cancer Survival Gap
 
 *By Soneesh Kothagundla*
 
 ---
 
-A woman in North America with breast cancer has roughly an 84% chance of living five years after the initial diagnosis. In contrast, a woman in lower-income nations with the exact same type of breast cancer (the same tumor, the same biological characteristics) has a five-year survival rate of just 40%. The only difference here is the country listed on the back of her driver's license, or put another way, there are many different "cures" for breast cancer today. While we know how to detect and cure the vast majority of these cases, millions of women each year will not survive their diagnosis.
+A woman in North America with breast cancer has roughly a 90% chance of living five years after the initial diagnosis. In contrast, a woman in lower-income nations with the exact same type of breast cancer (the same tumor, the same biological characteristics) has a five-year survival rate of just 40%. The only difference here is the country listed on the back of her driver's license, or put another way, there are many different "cures" for breast cancer today. While we know how to detect and cure the vast majority of these cases, hundreds of thousands of women each year will not survive their diagnosis.
 
 It's not a research issue. This is primarily a funding problem. We have seen this play out before in global public health, specifically in combating HIV/AIDS. The evidence shows us that we know exactly how to prevent this disease. So why do hundreds of thousands of women continue to die of a curable disease?
 
@@ -27,7 +27,7 @@ These deaths occur in locations where one would expect them to occur: in places 
 
 **This isn't new.**
 
-Over two decades ago, treating HIV/AIDS in Africa was deemed virtually impossible by experts worldwide. The drugs required to treat the disease were estimated to be approximately $10,000 per year. Furthermore, the health systems lacked sufficient resources and capacity to administer these medications. Logistics also presented a significant barrier to widespread administration. However, through the concerted efforts of PEPFAR and the Global Fund, four unremarkable strategies were simultaneously implemented: they provided financing to support long-term implementation versus short-term grants; they created economies of scale in procurement to bring generic drug costs down below $100 per year; instead of waiting for a pre-existing workforce to develop, they invested in developing their own delivery workforce; and lastly, they focused on measuring progress based on outcomes rather than simply reporting activity. As a result of this collaborative effort, [AIDS-related deaths have decreased by more than half since their peak](https://www.unaids.org/en/resources/fact-sheet), and [over 20 million individuals have received treatment via PEPFAR alone](https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar).
+Over two decades ago, treating HIV/AIDS in Africa was deemed virtually impossible by experts worldwide. The drugs required to treat the disease were estimated to be approximately $10,000 per year. Furthermore, the health systems lacked sufficient resources and capacity to administer these medications. Logistics also presented a significant barrier to widespread administration. However, through the concerted efforts of PEPFAR and the Global Fund, four unremarkable strategies were simultaneously implemented: they provided financing to support long-term implementation versus short-term grants; they created economies of scale in procurement to bring generic drug costs down below $100 per year; instead of waiting for a pre-existing workforce to develop, they invested in developing their own delivery workforce; and lastly, they focused on measuring progress based on outcomes rather than simply reporting activity. As a result of this collaborative effort, [AIDS-related deaths have decreased by roughly 70% since their peak](https://www.unaids.org/en/resources/fact-sheet), and [over 20 million individuals are currently receiving treatment through PEPFAR alone](https://www.hiv.gov/federal-response/pepfar-global-aids/pepfar).
 
 While breast cancer may present some advantages over AIDS, such as reduced competition for expensive drugs (most first-line chemotherapy agents and tamoxifen went off patent decades ago and can be manufactured for pennies), there remain three key areas in which funding is lacking: sustained financing, procurement scale, and workforce development.
 
