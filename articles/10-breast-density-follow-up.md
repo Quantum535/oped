@@ -27,7 +27,7 @@ The remedy is not hypothetical. The DENSE trial, a randomized study published in
 
 The federal notification rule was never medicine's idea. It was a patient's. Nancy Cappello, a Connecticut woman diagnosed with stage 3 breast cancer weeks after a normal mammogram, learned only afterward that dense tissue could hide a tumor, and that her doctors knew. Her movement won Connecticut's first-in-the-nation notification law in 2009 and reached 38 states before the FDA federalized the requirement.
 
-But the movement always had two demands: tell women, and cover the follow-up. Washington adopted the half that was free. The result is a policy that performs candor while outsourcing the consequence to the patient's credit limit. Mandating the warning while leaving the response to disposable income is not a screening policy. It is a disclosure regime wearing the costume of one.
+But the movement always had two demands: tell women, and cover the follow-up. Washington adopted the half that was free. The result is a policy that performs candor while outsourcing the consequence to the patient's credit limit. Mandating the warning while leaving the response to disposable income is not a screening policy. It is a disclosure regime functioning only as an incomplete version of one.
 
 **The objections have already been answered**
 

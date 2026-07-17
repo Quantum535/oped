@@ -19,7 +19,7 @@ Cervical cancer is the closest thing oncology has to a solved problem. We know e
 
 And yet modelling studies in The Lancet project that vaccination alone will never get the highest-burden countries there at all, and that even in the roughly 60 percent of 78 low- and lower-middle-income countries where the vaccine by itself can reach elimination, it will not arrive until sometime between 2074 and 2102. Read that again. On our current trajectory, a girl born today in the wrong country could plausibly die of cervical cancer as an old woman, of a disease the world had fully mapped before her grandmother was born.
 
-For years, the response to those timelines has been a shrug dressed as realism: vaccines are expensive, screening requires clinics and speculum exams and lab infrastructure, health budgets are finite. Every one of those excuses was priced on numbers that have since collapsed.
+For years, the response to those timelines has been a dismissal offered as realism: vaccines are expensive, screening requires clinics and speculum exams and lab infrastructure, health budgets are finite. Every one of those excuses was priced on numbers that have since collapsed.
 
 **The tools got cheaper. The excuses did not.**
 

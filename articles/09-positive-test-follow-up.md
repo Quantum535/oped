@@ -21,9 +21,9 @@ The cost of that shrug has been measured. A 2017 JAMA study followed more than 7
 
 **Blame the ledger, not the patient**
 
-The reflex is to file unfinished follow-up under patient noncompliance. It is the wrong ledger. Completion rates vary enormously from one health system to the next, and patients do not change character at the county line. When the same test produces closed loops in one system and dead ends in another, the system is the variable.
+The default assumption is to file unfinished follow-up under patient noncompliance. It is the wrong ledger. Completion rates vary enormously from one health system to the next, and patients do not change character at the county line. When the same test produces closed loops in one system and dead ends in another, the system is the variable.
 
-Look at how the money moves and the variation explains itself. America finances screening as a fragment, not a pathway. A mailed stool kit counts toward a system's screening rate the moment it is returned: full credit, payment complete, even if the positive result dies in an electronic inbox. The colonoscopy that gives the test its meaning is a separate referral, a separate authorization, a separate bill, and somebody else's problem. Every incentive in the sequence rewards starting the process. None rewards finishing it.
+Look at how the money moves and the variation explains itself. America finances screening as a fragment, not a pathway. A mailed stool kit counts toward a system's screening rate the moment it is returned: full credit, payment complete, even if the positive result remains unacted upon in an electronic inbox. The colonoscopy that gives the test its meaning is a separate referral, a separate authorization, a separate bill, and somebody else's problem. Every incentive in the sequence rewards starting the process. None rewards finishing it.
 
 The burden of unfinished pathways is not distributed evenly. Abnormal mammograms show the same unresolved-result clustering in safety-net populations. Wherever screening is delivered as a test rather than a pathway, loop-closing defaults to whoever has the phone minutes, the transportation, and the insurance literacy to chase it. A test has never saved anyone's life. The pathway does.
 

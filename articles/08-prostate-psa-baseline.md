@@ -17,11 +17,11 @@ topics:
 
 In 2012, the U.S. Preventive Services Task Force recommended against routine PSA screening for prostate cancer for all men. Testing fell nationwide, exactly as intended. Then came the bill. A 2022 JAMA Network Open analysis found metastatic prostate cancer rose more than 40 percent among men 45 to 74 between 2010 and 2018. Five-year survival for metastatic disease is around one in three, versus nearly 100 percent when the cancer is caught localized. The American Cancer Society's statistics show the same curve from another angle: incidence climbing again since 2014, driven entirely by advanced-stage disease.
 
-The public argument about this has calcified into two camps shouting past each other. Bring back screening, says one. Remember the harms, says the other. Both are living in the wrong decade. The way out is not choosing a side. It is changing the question, from whether to screen to how.
+The public argument about this has calcified into two camps locked in opposition. Bring back screening, says one. Remember the harms, says the other. Both are living in the wrong decade. The way out is not choosing a side. It is changing the question, from whether to screen to how.
 
 **The harm ledger the 2012 decision was built on no longer exists**
 
-The skeptics' history is real, and it should be said plainly: the 2012 recommendation answered a genuine catastrophe. Annual PSA testing was routing huge numbers of men with slow-growing cancers into surgery and radiation, with incontinence and impotence as the price of treating a disease that would never have killed them.
+The skeptics' history is real, and it should be said plainly: the 2012 recommendation answered a genuine catastrophe. Annual PSA testing was routing huge numbers of men with slow-growing cancers into surgery and radiation, with incontinence and impotence as the price of treating a disease that would never have caused them serious harm.
 
 But the harm side of that ledger has since collapsed. In 2010, most men diagnosed with low-risk prostate cancer were treated immediately. Today roughly 60 percent choose active surveillance, up from under 20 percent, and MRI-first biopsy pathways filter out trivial cancers before they are ever diagnosed. The overtreatment machine the Task Force feared has been largely dismantled. Guideline policy is still priced against a world that no longer exists.
 

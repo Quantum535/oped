@@ -21,6 +21,15 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 | 09 | [A Positive Cancer Test Is an Alarm. Half the Time, No One Answers It.](articles/09-positive-test-follow-up.md) | Follow-up, navigation |
 | 10 | [The Law Guarantees Women a Cancer Warning. Not the Test That Follows It.](articles/10-breast-density-follow-up.md) | Breast density, MRI, coverage |
 | 11 | [Britain Is Testing the 50-Cancer Blood Test. America Is Buying It Blind.](articles/11-mced-galleri-evidence.md) | Multi-cancer early detection |
+| 12 | [California Should Finish the Job on Lung Cancer Follow-Up](articles/12-sb1309-stop-cancer-early-act.md) | SB 1309, California, follow-up coverage |
+| 13 | [Put Lung Cancer Screening Information Where Smokers Actually Go](articles/13-sb1124-lung-screening-signage.md) | SB 1124, California, retail signage |
+
+---
+
+## California Legislation (2025–2026)
+
+- [12 - SB 1309 Stop Cancer Early Act (follow-up coverage, no cost sharing)](articles/12-sb1309-stop-cancer-early-act.md)
+- [13 - SB 1124 lung cancer screening signage at tobacco retailers](articles/13-sb1124-lung-screening-signage.md)
 
 ---
 
@@ -29,7 +38,9 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 ### Lung Cancer Screening
 - [01 - Pack-year eligibility and risk models](articles/01-pack-year-lung-screening.md)
 - [02 - Racial disparities in screening sensitivity](articles/02-racial-math-lung-screening.md)
-- [03 - Stigma, confession, and low uptake](articles/03-lung-screening-stigma.md)
+- [03 - Disclosure barriers and low uptake](articles/03-lung-screening-stigma.md)
+- [12 - SB 1309: no-cost follow-up after abnormal lung screens](articles/12-sb1309-stop-cancer-early-act.md)
+- [13 - SB 1124: screening signage at tobacco retailers](articles/13-sb1124-lung-screening-signage.md)
 
 ### Global Health & Equity
 - [04 - Breast cancer survival and the AIDS playbook](articles/04-breast-cancer-global-survival.md)

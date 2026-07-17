@@ -29,7 +29,7 @@ The most damning detail is what happened to the newest rule. The American Cancer
 
 **The double standard at the heart of screening**
 
-Consider how we treat every other component of this program. A scanner that missed half the tumors in front of it would be recalled. A drug that failed half its intended patients would be pulled from the market or relabeled. But eligibility criteria, which are algorithms applied to millions of people a year, operate with no required performance floor, no subgroup reporting, no post-market surveillance, and no recall mechanism when they fail. "Pack-years" became the national gatekeeper because it was easy to write on an intake form, not because anyone proved it identifies the people who get sick. We regulate the machine meticulously and run the math that rations it on the honor system.
+Consider how we treat every other component of this program. A scanner that missed half the tumors in front of it would be recalled. A drug that failed half its intended patients would be pulled from the market or relabeled. But eligibility criteria, which are algorithms applied to millions of people a year, operate with no required performance floor, no subgroup reporting, no post-market surveillance, and no recall mechanism when they fail. "Pack-years" became the national gatekeeper because it was easy to write on an intake form, not because anyone proved it identifies the people who get sick. We regulate the machine meticulously and run the math that rations it without formal oversight.
 
 **The objections do not survive contact with the evidence**
 
