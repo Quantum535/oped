@@ -22,7 +22,8 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 | 10 | [The Law Guarantees Women a Cancer Warning. Not the Test That Follows It.](articles/10-breast-density-follow-up.md) | Breast density, MRI, coverage |
 | 11 | [Britain Is Testing the 50-Cancer Blood Test. America Is Buying It Blind.](articles/11-mced-galleri-evidence.md) | Multi-cancer early detection |
 | 12 | [California Should Finish the Job on Lung Cancer Follow-Up](articles/12-sb1309-stop-cancer-early-act.md) | SB 1309, California, follow-up coverage |
-| 13 | [Put Lung Cancer Screening Information Where Smokers Actually Go](articles/13-sb1124-lung-screening-signage.md) | SB 1124, California, retail signage |
+| 13 | [Put Lung Cancer Screening Information Where Tobacco Is Sold](articles/13-sb1124-lung-screening-signage.md) | SB 1124, California, retail signage |
+| 14 | [We Can Fly Civilians to Orbit. We Have No Standard for Keeping Them Alive.](articles/14-space-healthcare.md) | Space medicine, commercial spaceflight, Earth-independent care |
 
 ---
 
@@ -53,6 +54,9 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 - [09 - Closing the loop after a positive test](articles/09-positive-test-follow-up.md)
 - [10 - Breast density notification without coverage](articles/10-breast-density-follow-up.md)
 - [11 - Multi-cancer blood tests and evidence sequencing](articles/11-mced-galleri-evidence.md)
+
+### Space & Frontier Health
+- [14 - Commercial spaceflight's missing medical standard and Earth-independent care](articles/14-space-healthcare.md)
 
 ---
 
