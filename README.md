@@ -25,6 +25,7 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 | 13 | [Put Lung Cancer Screening Information Where Tobacco Is Sold](articles/13-sb1124-lung-screening-signage.md) | SB 1124, California, retail signage |
 | 14 | [We Can Fly Civilians to Orbit. We Have No Standard for Keeping Them Alive.](articles/14-space-healthcare.md) | Space medicine, commercial spaceflight, Earth-independent care |
 | 15 | [The Plan for a Psychiatric Emergency in Orbit Is Duct Tape and a Syringe. Mars Needs Actual Psychiatry.](articles/15-space-mental-health.md) | Space medicine, mental health, psychiatry, telepsychiatry |
+| 16 | [One Shot, One Swab, One Visit: The Cancer We Already Know How to End](articles/16-cervical-cancer-us-kevinmd.md) | Cervical cancer, self-collection, US screening (KevinMD draft) |
 
 ---
 
@@ -55,6 +56,7 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 - [09 - Closing the loop after a positive test](articles/09-positive-test-follow-up.md)
 - [10 - Breast density notification without coverage](articles/10-breast-density-follow-up.md)
 - [11 - Multi-cancer blood tests and evidence sequencing](articles/11-mced-galleri-evidence.md)
+- [16 - HPV self-collection and US screening decline (US-angled companion to 05)](articles/16-cervical-cancer-us-kevinmd.md)
 
 ### Space & Frontier Health
 - [14 - Commercial spaceflight's missing medical standard and Earth-independent care](articles/14-space-healthcare.md)
