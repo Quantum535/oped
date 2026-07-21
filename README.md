@@ -24,6 +24,7 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 | 12 | [California Should Finish the Job on Lung Cancer Follow-Up](articles/12-sb1309-stop-cancer-early-act.md) | SB 1309, California, follow-up coverage |
 | 13 | [Put Lung Cancer Screening Information Where Tobacco Is Sold](articles/13-sb1124-lung-screening-signage.md) | SB 1124, California, retail signage |
 | 14 | [We Can Fly Civilians to Orbit. We Have No Standard for Keeping Them Alive.](articles/14-space-healthcare.md) | Space medicine, commercial spaceflight, Earth-independent care |
+| 15 | [The Plan for a Psychiatric Emergency in Orbit Is Duct Tape and a Syringe. Mars Needs Actual Psychiatry.](articles/15-space-mental-health.md) | Space medicine, mental health, psychiatry, telepsychiatry |
 
 ---
 
@@ -57,6 +58,7 @@ A collection of policy op-eds on cancer screening: who gets tested, who gets mis
 
 ### Space & Frontier Health
 - [14 - Commercial spaceflight's missing medical standard and Earth-independent care](articles/14-space-healthcare.md)
+- [15 - Behavioral health and psychiatry for long-duration spaceflight](articles/15-space-mental-health.md)
 
 ---
 
